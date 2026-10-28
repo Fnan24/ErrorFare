@@ -1,0 +1,6 @@
+[
+  { "name": "Fly4Free", "url": "https://www.fly4free.com/feed/", "type": "rss" },
+  { "name": "The Flight Deal", "url": "https://www.theflightdeal.com/feed/", "type": "rss" },
+  { "name": "Reddit r/traveldeals", "url": "https://www.reddit.com/r/traveldeals/.rss", "type": "rss" },
+  { "name": "Secret Flying", "url": "https://www.secretflying.com/feed/", "type": "rss", "enabled": false }
+]

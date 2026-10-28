@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b6b57">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<title>Foutprijs Radar</title>
+<style>
+:root{--bg:#eef0ee;--panel:#fbfcfb;--fg:#14201c;--muted:#5b6a64;--line:#cfd6d2;--accent:#0b6b57;--alert:#c4361b;--alert-bg:#fbe9e4;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1512;--panel:#142019;--fg:#e6efea;--muted:#93a39b;--line:#26362f;--accent:#4fd1b0;--alert:#ff7a5c;--alert-bg:#2a1812;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif;
+  padding:max(16px,env(safe-area-inset-top)) max(16px,env(safe-area-inset-right)) 40px max(16px,env(safe-area-inset-left))}
+.wrap{max-width:760px;margin:0 auto;display:grid;gap:14px}
+h1{font:800 2.2rem/1 "Arial Narrow",Arial,sans-serif;text-transform:uppercase;letter-spacing:.01em;margin:8px 0 0}
+.stamp{font:.78rem ui-monospace,Menlo,monospace;color:var(--muted)}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip,select,input{font:.85rem ui-monospace,Menlo,monospace;padding:9px 12px;border:1px solid var(--line);background:var(--panel);color:var(--fg);border-radius:6px}
+.chip[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+input[type=number]{width:7.5em}
+.board{border:1px solid var(--line);background:var(--panel)}
+.row{display:grid;grid-template-columns:1fr auto;gap:4px 14px;padding:13px 14px;border-top:1px solid var(--line);text-decoration:none;color:inherit;min-width:0}
+.row:first-child{border-top:0}
+.t{font-weight:600;overflow-wrap:anywhere}
+.p{grid-row:1/3;grid-column:2;text-align:right;font:600 1.35rem ui-monospace,Menlo,monospace;align-self:center;font-variant-numeric:tabular-nums}
+.p small{display:block;font-size:.68rem;font-weight:400;color:var(--muted)}
+.m{display:flex;flex-wrap:wrap;gap:4px 10px;font:.74rem ui-monospace,Menlo,monospace;color:var(--muted);align-items:center}
+.tag{padding:1px 6px;border-radius:3px;border:1px solid var(--alert);color:var(--alert);background:var(--alert-bg);text-transform:uppercase;letter-spacing:.05em}
+.empty{padding:22px 14px;color:var(--muted)}
+.src{font:.76rem ui-monospace,Menlo,monospace;color:var(--muted);display:grid;gap:3px}
+.bad{color:var(--alert)}
+.note{font-size:.85rem;color:var(--muted)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div>
+    <div class="stamp" id="stamp">Laden…</div>
+    <h1>Foutprijs Radar</h1>
+  </div>
+  <div class="bar" role="group" aria-label="Filters">
+    <button class="chip" id="b-err" aria-pressed="false">Error fares</button>
+    <button class="chip" id="b-prem" aria-pressed="false">Business</button>
+    <select id="src" aria-label="Bron"><option value="">Alle bronnen</option></select>
+    <input id="max" type="number" inputmode="numeric" min="0" placeholder="Max €" aria-label="Maximale prijs in euro">
+  </div>
+  <div class="board" id="board"><div class="empty">Deals worden geladen…</div></div>
+  <div class="src" id="status"></div>
+  <p class="note">Prijzen zijn omgerekend naar euro met de dagkoers van de ECB en dienen als indicatie. Controleer elke deal live bij de maatschappij voordat je boekt.</p>
+</div>
+<script>
+var S={err:false,prem:false,src:"",max:null,data:null};
+var $=function(i){return document.getElementById(i)};
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function ago(iso){var m=Math.round((Date.now()-Date.parse(iso))/6e4);if(m<60)return Math.max(m,1)+" min";if(m<1440)return Math.round(m/60)+" uur";return Math.round(m/1440)+" d"}
+function draw(){
+  var d=S.data.deals.filter(function(x){
+    return (!S.err||x.error)&&(!S.prem||x.cabin==="premium")&&(!S.src||x.source===S.src)&&(S.max==null||(x.priceEur!=null&&x.priceEur<=S.max));
+  }).sort(function(a,b){return (b.error-a.error)||(Date.parse(b.time)-Date.parse(a.time))});
+  $("board").innerHTML=d.length?d.map(function(x){
+    return '<a class="row" href="'+esc(x.link)+'" target="_blank" rel="noopener"><div class="t">'+esc(x.title)+'</div>'
+    +'<div class="p">'+(x.priceEur!=null?'€'+x.priceEur:'–')+(x.priceOrig&&!/EUR/.test(x.priceOrig)?'<small>'+esc(x.priceOrig)+'</small>':'')+'</div>'
+    +'<div class="m">'+(x.error?'<span class="tag">Error fare</span>':'')+'<span>'+esc(x.source)+'</span><span>'+ago(x.time)+' geleden</span>'+(x.oneway?'<span>enkele reis</span>':'')+'</div></a>';
+  }).join(""):'<div class="empty">Geen deals voor deze filters.</div>';
+}
+function setup(){
+  var D=S.data;
+  $("stamp").textContent="Bijgewerkt "+ago(D.updated)+" geleden · koers ECB "+(D.ratesDate||"onbekend");
+  D.sources.forEach(function(s){var o=document.createElement("option");o.value=s.name;o.textContent=s.name;$("src").appendChild(o)});
+  $("status").innerHTML=D.sources.map(function(s){return s.ok?'<div>✓ '+esc(s.name)+': '+s.count+' items</div>':'<div class="bad">✗ '+esc(s.name)+': '+esc(s.error)+'</div>'}).join("");
+  draw();
+}
+[["b-err","err"],["b-prem","prem"]].forEach(function(p){$(p[0]).addEventListener("click",function(){S[p[1]]=!S[p[1]];this.setAttribute("aria-pressed",S[p[1]]);draw()})});
+$("src").addEventListener("change",function(){S.src=this.value;draw()});
+$("max").addEventListener("input",function(){S.max=this.value===""?null:Number(this.value);draw()});
+fetch("deals.json?"+Date.now()).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){S.data=j;setup()})
+ .catch(function(){$("board").innerHTML='<div class="empty">Nog geen deals. Start de workflow "Deals bijwerken" in GitHub (zie README).</div>';$("stamp").textContent=""});
+if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(function(){});
+</script>
+</body>
+</html>
