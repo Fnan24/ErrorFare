@@ -1,4 +1,4 @@
-yaml
+
 name: Deals bijwerken
 on:
   schedule:
