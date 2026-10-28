@@ -1,7 +1,7 @@
 name: Deals bijwerken
 on:
   schedule:
-    - cron: "17 */3 * * *"
+    - cron: "7 5,9,13,17,21 * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -9,12 +9,19 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - id: gate
+        run: |
+          if [ "$(date -u +%Y%m%d)" -le 20270428 ]; then echo "go=true" >> "$GITHUB_OUTPUT"; else echo "Looptijd voorbij"; fi
+      - if: steps.gate.outputs.go == 'true'
+        uses: actions/checkout@v4
+      - if: steps.gate.outputs.go == 'true'
+        uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node scripts/update.mjs
-      - name: Wijzigingen opslaan
+      - if: steps.gate.outputs.go == 'true'
+        run: node scripts/update.mjs
+      - if: steps.gate.outputs.go == 'true'
+        name: Wijzigingen opslaan
         run: |
           git config user.name "deals-bot"
           git config user.email "deals-bot@users.noreply.github.com"
