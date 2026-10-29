@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T20:43:55.269Z",
+ "updated": "2026-10-29T00:47:05.631Z",
  "ratesDate": "2026-10-28",
  "sources": [
   {
@@ -19,6 +19,18 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-beijing-p436/",
+   "title": "Cheap full-service flights from Manchester to Beijing, China for £436",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-beijing-p436/",
+   "source": "Fly4Free",
+   "time": "2026-10-28T21:00:30.000Z",
+   "priceEur": 520,
+   "priceOrig": "436 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-the-philippines-e565/",
    "title": "PEAK SEASON Full-service flights from Budapest to the Philippines for €565",
