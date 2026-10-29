@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T00:47:05.631Z",
+ "updated": "2026-10-29T11:26:49.188Z",
  "ratesDate": "2026-10-28",
  "sources": [
   {
@@ -19,6 +19,78 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-cape-verde-e231/",
+   "title": "Price cut Cheap last minute direct flights from Poland to Cape Verde from €231",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-cape-verde-e231/",
+   "source": "Fly4Free",
+   "time": "2026-10-29T10:55:27.000Z",
+   "priceEur": 231,
+   "priceOrig": "231 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-vietnam-e463-2/",
+   "title": "Cheap full-service flights from Budapest to Vietnam for €463",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-vietnam-e463-2/",
+   "source": "Fly4Free",
+   "time": "2026-10-29T10:00:17.000Z",
+   "priceEur": 463,
+   "priceOrig": "463 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-berlin-to-to-south-east-asia/",
+   "title": "PEAK SEASON Etihad Airways flights from Berlin to Hong Kong & South East Asia from €564",
+   "link": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-berlin-to-to-south-east-asia/",
+   "source": "Fly4Free",
+   "time": "2026-10-29T09:00:31.000Z",
+   "priceEur": 564,
+   "priceOrig": "564 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/ryanair-launches-8-new-routes-from-budapest/",
+   "title": "Ryanair Launches 8 New Routes from Budapest",
+   "link": "https://www.fly4free.com/flight-deals/europe/ryanair-launches-8-new-routes-from-budapest/",
+   "source": "Fly4Free",
+   "time": "2026-10-29T08:36:04.000Z",
+   "priceEur": null,
+   "priceOrig": null,
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-malaga-to-boston-e340/",
+   "title": "GREAT DEAL Cheap flights from Malaga to Boston & New York from €340",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-malaga-to-boston-e340/",
+   "source": "Fly4Free",
+   "time": "2026-10-29T08:00:17.000Z",
+   "priceEur": 340,
+   "priceOrig": "340 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-port-elizabeth-e561/",
+   "title": "Full-service flights from Frankfurt to Port Elizabeth, South Africa for €542",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-port-elizabeth-e561/",
+   "source": "Fly4Free",
+   "time": "2026-10-29T07:00:34.000Z",
+   "priceEur": 542,
+   "priceOrig": "542 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-beijing-p436/",
    "title": "Cheap full-service flights from Manchester to Beijing, China for £436",
