@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:55:47.082Z",
+ "updated": "2026-10-30T00:48:06.196Z",
  "ratesDate": "2026-10-29",
  "sources": [
   {
@@ -20,6 +20,42 @@
  ],
  "deals": [
   {
+   "id": "https://www.fly4free.com/flight-deals/europe/lights-from-europe-to-new-zealand-e490/",
+   "title": "HOT DEAL Open-jaw flights from Europe to New Zealand and Australia from only €490",
+   "link": "https://www.fly4free.com/flight-deals/europe/lights-from-europe-to-new-zealand-e490/",
+   "source": "Fly4Free",
+   "time": "2026-10-29T21:30:46.000Z",
+   "priceEur": 490,
+   "priceOrig": "490 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-mumbai-e325/",
+   "title": "Cheap flights from Vienna to Mumbai, India for €325",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-mumbai-e325/",
+   "source": "Fly4Free",
+   "time": "2026-10-29T20:00:10.000Z",
+   "priceEur": 325,
+   "priceOrig": "325 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-australia-p480/",
+   "title": "Explore Australia! Cheap full-service flights from London to Melbourne & Sydney from £480",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-australia-p480/",
+   "source": "Fly4Free",
+   "time": "2026-10-29T19:00:33.000Z",
+   "priceEur": 574,
+   "priceOrig": "480 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
    "id": "https://www.theflightdeal.com/2026/10/29/united-san-francisco-newark-and-vice-versa-257-basic-economy-387-regular-economy-roundtrip-including-all-taxes/",
    "title": "United: San Francisco - Newark (and vice versa). $257 (Basic Economy) / $387 (Regular Economy). Roundtrip, including all Taxes",
    "link": "https://www.theflightdeal.com/2026/10/29/united-san-francisco-newark-and-vice-versa-257-basic-economy-387-regular-economy-roundtrip-including-all-taxes/",
@@ -27,6 +63,18 @@
    "time": "2026-10-29T18:33:53.000Z",
    "priceEur": 231,
    "priceOrig": "257 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand/",
+   "title": "Full-service flights from London & Stockholm to New Zealand from €647",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand/",
+   "source": "Fly4Free",
+   "time": "2026-10-29T18:30:18.000Z",
+   "priceEur": 647,
+   "priceOrig": "647 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
