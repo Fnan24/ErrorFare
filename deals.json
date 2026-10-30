@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T00:48:06.196Z",
+ "updated": "2026-10-30T11:17:55.640Z",
  "ratesDate": "2026-10-29",
  "sources": [
   {
@@ -19,6 +19,78 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/stockholm-ruby-ihg-hotel/",
+   "title": "City break in Stockholm! 🇸🇪 Design-led Ruby Frida Hotel by IHG from €68 per night",
+   "link": "https://www.fly4free.com/flight-deals/europe/stockholm-ruby-ihg-hotel/",
+   "source": "Fly4Free",
+   "time": "2026-10-30T11:00:20.000Z",
+   "priceEur": 68,
+   "priceOrig": "68 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seoul-p405/",
+   "title": "Cheap full-service flights from London to Seoul, South Korea for £405",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seoul-p405/",
+   "source": "Fly4Free",
+   "time": "2026-10-30T10:00:06.000Z",
+   "priceEur": 485,
+   "priceOrig": "405 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-helsinki-to-vietnam-thailand/",
+   "title": "Qatar Airways flights from Helsinki to Thailand & Vietnam from €572",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-helsinki-to-vietnam-thailand/",
+   "source": "Fly4Free",
+   "time": "2026-10-30T09:00:31.000Z",
+   "priceEur": 572,
+   "priceOrig": "572 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/news/travellers-trust-ai-to-find-cheaper-hotels-but-not-to-plan-their-holidays/",
+   "title": "Travellers Trust AI to Find Cheaper Hotels, but Not to Plan Their Holidays, Study Finds",
+   "link": "https://www.fly4free.com/news/travellers-trust-ai-to-find-cheaper-hotels-but-not-to-plan-their-holidays/",
+   "source": "Fly4Free",
+   "time": "2026-10-30T08:44:22.000Z",
+   "priceEur": null,
+   "priceOrig": null,
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-calgary-p387/",
+   "title": "Cheap non-stop flights from London to Calgary - gateway to amazing Banff National Park in Canada for £387",
+   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-calgary-p387/",
+   "source": "Fly4Free",
+   "time": "2026-10-30T08:00:30.000Z",
+   "priceEur": 463,
+   "priceOrig": "387 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-vietnam-e388-2/",
+   "title": "HIGH SEASON Cheap full-service flights from Brussels to Vietnam from €388",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-vietnam-e388-2/",
+   "source": "Fly4Free",
+   "time": "2026-10-30T07:00:40.000Z",
+   "priceEur": 388,
+   "priceOrig": "388 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/lights-from-europe-to-new-zealand-e490/",
    "title": "HOT DEAL Open-jaw flights from Europe to New Zealand and Australia from only €490",
