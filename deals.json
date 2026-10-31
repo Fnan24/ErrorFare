@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:41:21.974Z",
+ "updated": "2026-10-31T10:50:56.644Z",
  "ratesDate": "2026-10-30",
  "sources": [
   {
@@ -19,6 +19,42 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hong-kong-p307/",
+   "title": "Amazing fares! Cheap full-service flights from London to Hong Kong for £307",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hong-kong-p307/",
+   "source": "Fly4Free",
+   "time": "2026-10-31T10:00:27.000Z",
+   "priceEur": 368,
+   "priceOrig": "307 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-kenya-e459-2/",
+   "title": "Adventure time in Africa Full-service flights from Vienna to Kenya for €459",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-kenya-e459-2/",
+   "source": "Fly4Free",
+   "time": "2026-10-31T09:00:52.000Z",
+   "priceEur": 459,
+   "priceOrig": "459 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e635/",
+   "title": "Last minute LOT direct flights from Warsaw to Penang, Malaysia for €635",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e635/",
+   "source": "Fly4Free",
+   "time": "2026-10-31T08:00:57.000Z",
+   "priceEur": 635,
+   "priceOrig": "635 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/25hotels-frankfurt-4-star-hotel/",
    "title": "🇩🇪 Design-led 4-star 25hours Hotel in Frankfurt from just €66/double (including Xmas)",
