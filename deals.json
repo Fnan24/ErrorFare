@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T18:32:15.743Z",
+ "updated": "2026-10-31T00:41:21.974Z",
  "ratesDate": "2026-10-30",
  "sources": [
   {
@@ -19,6 +19,54 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/25hotels-frankfurt-4-star-hotel/",
+   "title": "🇩🇪 Design-led 4-star 25hours Hotel in Frankfurt from just €66/double (including Xmas)",
+   "link": "https://www.fly4free.com/flight-deals/europe/25hotels-frankfurt-4-star-hotel/",
+   "source": "Fly4Free",
+   "time": "2026-10-30T21:00:17.000Z",
+   "priceEur": 66,
+   "priceOrig": "66 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mombasa-e383/",
+   "title": "WINTER SUN + SAFARI! Cheap flights from Europe to Mombasa from €383 return",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mombasa-e383/",
+   "source": "Fly4Free",
+   "time": "2026-10-30T20:00:00.000Z",
+   "priceEur": 383,
+   "priceOrig": "383 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/10/30/asiana-san-francisco-hanoi-vietnam-824-roundtrip-including-all-taxes/",
+   "title": "Asiana: San Francisco - Hanoi, Vietnam. $824. Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/10/30/asiana-san-francisco-hanoi-vietnam-824-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-10-30T18:53:05.000Z",
+   "priceEur": 738,
+   "priceOrig": "824 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-london-to-thailand-2/",
+   "title": "Cheap flights from London to Bangkok, Thailand from £367",
+   "link": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-london-to-thailand-2/",
+   "source": "Fly4Free",
+   "time": "2026-10-30T18:30:56.000Z",
+   "priceEur": 440,
+   "priceOrig": "367 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.theflightdeal.com/2026/10/30/american-los-angeles-cartagena-colombia-400-basic-economy-550-regular-economy-roundtrip-including-all-taxes/",
    "title": "American: Los Angeles - Cartagena, Colombia. $400 (Basic Economy) / $550 (Regular Economy). Roundtrip, including all Taxes",
