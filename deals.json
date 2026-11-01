@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T17:38:06.964Z",
+ "updated": "2026-11-01T00:01:50.973Z",
  "ratesDate": "2026-10-30",
  "sources": [
   {
@@ -19,6 +19,126 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/news/european-airlines-cut-winter-schedules-ryanair/",
+   "title": "European Airlines Cut Winter Schedules: Ryanair Removes 5.7 Million Seats, LOT Nearly 600,000",
+   "link": "https://www.fly4free.com/news/european-airlines-cut-winter-schedules-ryanair/",
+   "source": "Fly4Free",
+   "time": "2026-10-31T21:37:20.000Z",
+   "priceEur": null,
+   "priceOrig": null,
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e454/",
+   "title": "Price Cut! Last minute direct full-service flights from several cities in Poland to Sri Lanka from €453",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e454/",
+   "source": "Fly4Free",
+   "time": "2026-10-31T21:00:27.000Z",
+   "priceEur": 453,
+   "priceOrig": "453 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-frankfurt-to-seattle-e498/",
+   "title": "XMAS & NYE Lufthansa direct flights from Frankfurt to Seattle for €498",
+   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-frankfurt-to-seattle-e498/",
+   "source": "Fly4Free",
+   "time": "2026-10-31T20:00:40.000Z",
+   "priceEur": 498,
+   "priceOrig": "498 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-sri-lanka-p466/",
+   "title": "Price drop Cheap full-service flights from London to Sri Lanka from £466 or £513 over High Season",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-sri-lanka-p466/",
+   "source": "Fly4Free",
+   "time": "2026-10-31T19:00:58.000Z",
+   "priceEur": 559,
+   "priceOrig": "466 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/10/31/american-san-francisco-cleveland-ohio-and-vice-versa-256-basic-economy-386-regular-economy-roundtrip-including-all-taxes/",
+   "title": "American: San Francisco - Cleveland, Ohio (and vice versa). $256 (Basic Economy) / $386 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/10/31/american-san-francisco-cleveland-ohio-and-vice-versa-256-basic-economy-386-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-10-31T18:33:35.000Z",
+   "priceEur": 229,
+   "priceOrig": "256 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/10/31/the-shorthaul-united-los-angeles-denver-colorado-and-vice-versa-137-basic-economy-237-regular-economy-roundtrip-including-all-taxes/",
+   "title": "The Shorthaul - United: Los Angeles - Denver, Colorado (and vice versa). $137 (Basic Economy) / $237 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/10/31/the-shorthaul-united-los-angeles-denver-colorado-and-vice-versa-137-basic-economy-237-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-10-31T18:28:35.000Z",
+   "priceEur": 123,
+   "priceOrig": "137 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/10/31/american-portland-tampa-florida-and-vice-versa-158-basic-economy-288-regular-economy-roundtrip-including-all-taxes/",
+   "title": "American: Portland - Tampa, Florida (and vice versa). $158 (Basic Economy) / $288 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/10/31/american-portland-tampa-florida-and-vice-versa-158-basic-economy-288-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-10-31T18:23:58.000Z",
+   "priceEur": 141,
+   "priceOrig": "158 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/10/31/the-shorthaul-american-phoenix-las-vegas-and-vice-versa-97-basic-economy-187-regular-economy-roundtrip-including-all-taxes/",
+   "title": "The Shorthaul - American: Phoenix - Las Vegas, Nevada (and vice versa). $97 (Basic Economy) / $187 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/10/31/the-shorthaul-american-phoenix-las-vegas-and-vice-versa-97-basic-economy-187-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-10-31T18:18:04.000Z",
+   "priceEur": 87,
+   "priceOrig": "97 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cape-verde-e199/",
+   "title": "Cheap direct flights from Amsterdam to the island of Sal, Cape Verde for €199",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-cape-verde-e199/",
+   "source": "Fly4Free",
+   "time": "2026-10-31T18:00:57.000Z",
+   "priceEur": 199,
+   "priceOrig": "199 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/10/31/jetblue-new-york-providenciales-turks-and-caicos-310-basic-economy-360-regular-economy-roundtrip-including-all-taxes/",
+   "title": "jetBlue: New York - Providenciales, Turks and Caicos. $310 (Basic Economy) / $360 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/10/31/jetblue-new-york-providenciales-turks-and-caicos-310-basic-economy-360-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-10-31T17:53:51.000Z",
+   "priceEur": 277,
+   "priceOrig": "310 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.theflightdeal.com/2026/10/31/cathay-pacific-san-francisco-da-nang-vietnam-847-roundtrip-including-all-taxes/",
    "title": "Cathay Pacific: San Francisco - Da Nang, Vietnam. $847. Roundtrip, including all Taxes",
@@ -57,12 +177,12 @@
   },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-zanzibar-e56-2/",
-   "title": "BEST SEASON B&B stay at top-rated & beachfront 4* hotel in Zanzibar for €56/double",
+   "title": "BEST SEASON B&B stay at top-rated & beachfront 4* hotel in Zanzibar for €40/double",
    "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-zanzibar-e56-2/",
    "source": "Fly4Free",
    "time": "2026-10-31T17:00:01.000Z",
-   "priceEur": 56,
-   "priceOrig": "56 EUR",
+   "priceEur": 40,
+   "priceOrig": "40 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
