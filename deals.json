@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:01:50.973Z",
+ "updated": "2026-11-01T11:47:38.563Z",
  "ratesDate": "2026-10-30",
  "sources": [
   {
@@ -19,6 +19,66 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-singapore-and-oman/",
+   "title": "Full-service 2-in-1 flights from Frankfurt to Singapore & Oman for €559",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-singapore-and-oman/",
+   "source": "Fly4Free",
+   "time": "2026-11-01T11:00:13.000Z",
+   "priceEur": 559,
+   "priceOrig": "559 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/01/alaska-air-seattle-los-angeles-portland-san-francisco-tokyo-osaka-japan-starting-195-basic-economy-355-regular-economy-roundtrip-including-all-taxes/",
+   "title": "Alaska Air: Seattle / Las Vegas / Los Angeles / New York / Phoenix / Portland / Sacramento / San Diego / San Francisco - Tokyo / Osaka, Japan. Starting $195 (Basic Economy) / $355 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/01/alaska-air-seattle-los-angeles-portland-san-francisco-tokyo-osaka-japan-starting-195-basic-economy-355-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-01T10:30:24.000Z",
+   "priceEur": 175,
+   "priceOrig": "195 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-recife-e551/",
+   "title": "Non-stop flights from Madrid to Recife, Brazil for €551",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-recife-e551/",
+   "source": "Fly4Free",
+   "time": "2026-11-01T10:00:09.000Z",
+   "priceEur": 551,
+   "priceOrig": "551 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-singapore-e448-4/",
+   "title": "Cheap non-stop flights from Vienna to Singapore for €448",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-singapore-e448-4/",
+   "source": "Fly4Free",
+   "time": "2026-11-01T09:00:50.000Z",
+   "priceEur": 448,
+   "priceOrig": "448 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-bali-p442/",
+   "title": "Cheap full-service flights from London to Bali, Indonesia for £442",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-bali-p442/",
+   "source": "Fly4Free",
+   "time": "2026-11-01T08:00:28.000Z",
+   "priceEur": 530,
+   "priceOrig": "442 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/news/european-airlines-cut-winter-schedules-ryanair/",
    "title": "European Airlines Cut Winter Schedules: Ryanair Removes 5.7 Million Seats, LOT Nearly 600,000",
