@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:23:22.254Z",
+ "updated": "2026-11-02T00:32:41.574Z",
  "ratesDate": "2026-10-30",
  "sources": [
   {
@@ -19,6 +19,114 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p367/",
+   "title": "Cheap flights from London to Seattle for £367 or £391 over Summer",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p367/",
+   "source": "Fly4Free",
+   "time": "2026-11-01T21:00:16.000Z",
+   "priceEur": 440,
+   "priceOrig": "367 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/klm-flights-from-riga-and-vilnius-to-singapore-e587/",
+   "title": "HIGH SEASON KLM flights from the Baltic countries to Singapore from €587",
+   "link": "https://www.fly4free.com/flight-deals/europe/klm-flights-from-riga-and-vilnius-to-singapore-e587/",
+   "source": "Fly4Free",
+   "time": "2026-11-01T20:00:55.000Z",
+   "priceEur": 587,
+   "priceOrig": "587 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/01/delta-san-francisco-charlotte-north-carolina-and-vice-versa-256-basic-economy-386-regular-economy-roundtrip-including-all-taxes/",
+   "title": "Delta: San Francisco - Charlotte, North Carolina (and vice versa). $256 (Basic Economy) / $386 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/01/delta-san-francisco-charlotte-north-carolina-and-vice-versa-256-basic-economy-386-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-01T19:53:30.000Z",
+   "priceEur": 229,
+   "priceOrig": "256 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/01/cathay-pacific-los-angeles-haikou-china-861-roundtrip-including-all-taxes-2/",
+   "title": "Cathay Pacific: Los Angeles - Haikou, China. $858. Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/01/cathay-pacific-los-angeles-haikou-china-861-roundtrip-including-all-taxes-2/",
+   "source": "The Flight Deal",
+   "time": "2026-11-01T19:28:22.000Z",
+   "priceEur": 768,
+   "priceOrig": "858 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/01/klm-royal-dutch-portland-tallinn-estonia-560-basic-economy-800-regular-economy-roundtrip-including-all-taxes/",
+   "title": "KLM Royal Dutch: Portland - Tallinn, Estonia. $560 (Basic Economy) / $800 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/01/klm-royal-dutch-portland-tallinn-estonia-560-basic-economy-800-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-01T19:23:25.000Z",
+   "priceEur": 501,
+   "priceOrig": "560 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/01/united-phoenix-manila-philippines-855-basic-economy-1095-regular-economy-roundtrip-including-all-taxes/",
+   "title": "United: Phoenix - Manila, Philippines. $855 (Basic Economy) / $1,095 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/01/united-phoenix-manila-philippines-855-basic-economy-1095-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-01T19:18:35.000Z",
+   "priceEur": 765,
+   "priceOrig": "855 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/lot-direct-flights-from-poland-to-phuket/",
+   "title": "Last minute LOT direct flights from Poland to Phuket, Thailand for €686",
+   "link": "https://www.fly4free.com/flight-deals/europe/lot-direct-flights-from-poland-to-phuket/",
+   "source": "Fly4Free",
+   "time": "2026-11-01T19:00:09.000Z",
+   "priceEur": 686,
+   "priceOrig": "686 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/01/united-newark-santo-domingo-dominican-republic-311-basic-economy-371-regular-economy-roundtrip-including-all-taxes/",
+   "title": "United: Newark - Santo Domingo, Dominican Republic. $311 (Basic Economy) / $371 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/01/united-newark-santo-domingo-dominican-republic-311-basic-economy-371-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-01T18:53:57.000Z",
+   "priceEur": 278,
+   "priceOrig": "311 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/01/united-san-francisco-dubrovnik-croatia-744-basic-economy-984-regular-economy-roundtrip-including-all-taxes/",
+   "title": "United: San Francisco - Dubrovnik, Croatia. $744 (Basic Economy) / $984 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/01/united-san-francisco-dubrovnik-croatia-744-basic-economy-984-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-01T18:23:47.000Z",
+   "priceEur": 666,
+   "priceOrig": "744 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.theflightdeal.com/2026/11/01/qatar-airways-philadelphia-new-delhi-india-915-roundtrip-including-all-taxes/",
    "title": "Qatar Airways: Philadelphia - New Delhi, India. $915. Roundtrip, including all Taxes",
@@ -249,12 +357,12 @@
   },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-recife-e551/",
-   "title": "Non-stop flights from Madrid to Recife, Brazil for €551",
+   "title": "Cheap non-stop flights from Madrid to Recife, Brazil for €495",
    "link": "https://www.fly4free.com/flight-deals/europe/flights-from-madrid-to-recife-e551/",
    "source": "Fly4Free",
    "time": "2026-11-01T10:00:09.000Z",
-   "priceEur": 551,
-   "priceOrig": "551 EUR",
+   "priceEur": 495,
+   "priceOrig": "495 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
