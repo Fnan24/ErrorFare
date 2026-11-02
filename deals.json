@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T00:32:41.574Z",
+ "updated": "2026-11-02T13:22:24.475Z",
  "ratesDate": "2026-10-30",
  "sources": [
   {
@@ -19,6 +19,90 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/news/beyond-new-york-which-us-states-have-nonstop-flights-to-europe/",
+   "title": "Beyond New York: Which US States Have Nonstop Flights to Europe?",
+   "link": "https://www.fly4free.com/news/beyond-new-york-which-us-states-have-nonstop-flights-to-europe/",
+   "source": "Fly4Free",
+   "time": "2026-11-02T12:51:45.000Z",
+   "priceEur": null,
+   "priceOrig": null,
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-copenhagen/",
+   "title": "Iconic stay in Copenhagen 🇩🇰 Historic 5-star waterfront Admiral Hotel Copenhagen from €172/double",
+   "link": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-copenhagen/",
+   "source": "Fly4Free",
+   "time": "2026-11-02T12:30:19.000Z",
+   "priceEur": 172,
+   "priceOrig": "172 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/trip-from-budapest-zanzibar-hurghada/",
+   "title": "2-IN-1 WINTER ESCAPE! Hurghada + Zanzibar with direct flights from Budapest for €494 all direct flights",
+   "link": "https://www.fly4free.com/flight-deals/europe/trip-from-budapest-zanzibar-hurghada/",
+   "source": "Fly4Free",
+   "time": "2026-11-02T11:00:27.000Z",
+   "priceEur": 494,
+   "priceOrig": "494 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-italy-to-singapore-e466/",
+   "title": "Good deal Cheap High Season flights from Italy to Singapore from €466",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-italy-to-singapore-e466/",
+   "source": "Fly4Free",
+   "time": "2026-11-02T10:00:28.000Z",
+   "priceEur": 466,
+   "priceOrig": "466 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-oslo-to-thailand-e373/",
+   "title": "Cheap non-stop flights from Oslo to Bangkok or Phuket, Thailand for €373",
+   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-oslo-to-thailand-e373/",
+   "source": "Fly4Free",
+   "time": "2026-11-02T09:01:54.000Z",
+   "priceEur": 373,
+   "priceOrig": "373 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-barbados-p440/",
+   "title": "Non-stop flights from several UK cities to exotic Barbados from £440",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-barbados-p440/",
+   "source": "Fly4Free",
+   "time": "2026-11-02T08:00:59.000Z",
+   "priceEur": 528,
+   "priceOrig": "440 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-south-korea-e562/",
+   "title": "Flights from many Polish cities to South Korea from €562",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-south-korea-e562/",
+   "source": "Fly4Free",
+   "time": "2026-11-02T07:00:28.000Z",
+   "priceEur": 562,
+   "priceOrig": "562 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p367/",
    "title": "Cheap flights from London to Seattle for £367 or £391 over Summer",
@@ -345,7 +429,7 @@
   },
   {
    "id": "https://www.theflightdeal.com/2026/11/01/alaska-air-seattle-los-angeles-portland-san-francisco-tokyo-osaka-japan-starting-195-basic-economy-355-regular-economy-roundtrip-including-all-taxes/",
-   "title": "Alaska Air: Seattle / Las Vegas / Los Angeles / New York / Phoenix / Portland / Sacramento / San Diego / San Francisco - Tokyo / Osaka, Japan. Starting $195 (Basic Economy) / $355 (Regular Economy). Roundtrip, including all Taxes",
+   "title": "[FARE GONE] Alaska Air: Seattle / Las Vegas / Los Angeles / New York / Phoenix / Portland / Sacramento / San Diego / San Francisco - Tokyo / Osaka, Japan. Starting $195 (Basic Economy) / $355 (Regular Economy). Roundtrip, including all Taxes",
    "link": "https://www.theflightdeal.com/2026/11/01/alaska-air-seattle-los-angeles-portland-san-francisco-tokyo-osaka-japan-starting-195-basic-economy-355-regular-economy-roundtrip-including-all-taxes/",
    "source": "The Flight Deal",
    "time": "2026-11-01T10:30:24.000Z",
