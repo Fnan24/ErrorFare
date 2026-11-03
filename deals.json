@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:51:01.859Z",
+ "updated": "2026-11-03T12:43:09.406Z",
  "ratesDate": "2026-11-02",
  "sources": [
   {
@@ -19,6 +19,78 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/cheap-hotel-in-paris-e76/",
+   "title": "🇫🇷 Affordable Paris base: central hotel by Exe Hotels for €76/double",
+   "link": "https://www.fly4free.com/flight-deals/europe/cheap-hotel-in-paris-e76/",
+   "source": "Fly4Free",
+   "time": "2026-11-03T11:45:20.000Z",
+   "priceEur": 76,
+   "priceOrig": "76 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-miami-e347-2/",
+   "title": "Fantastic deal! Cheap flights from many European cities to Miami from €347",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-miami-e347-2/",
+   "source": "Fly4Free",
+   "time": "2026-11-03T10:40:35.000Z",
+   "priceEur": 347,
+   "priceOrig": "347 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-kuala-lumpur-e438/",
+   "title": "HIGH SEASON Cheap full-service flights from several European cities to Malaysia from €438",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-kuala-lumpur-e438/",
+   "source": "Fly4Free",
+   "time": "2026-11-03T10:00:13.000Z",
+   "priceEur": 438,
+   "priceOrig": "438 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-new-york-e382/",
+   "title": "Cheap direct flights from Frankfurt to New York for €382",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-new-york-e382/",
+   "source": "Fly4Free",
+   "time": "2026-11-03T09:00:06.000Z",
+   "priceEur": 382,
+   "priceOrig": "382 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/2-in-1-full-service-flights-from-london-to-jordan-china/",
+   "title": "2-in-1 full-service flights from London to Jordan & China from £457",
+   "link": "https://www.fly4free.com/flight-deals/europe/2-in-1-full-service-flights-from-london-to-jordan-china/",
+   "source": "Fly4Free",
+   "time": "2026-11-03T08:00:11.000Z",
+   "priceEur": 547,
+   "priceOrig": "457 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-dominican-republic-e564/",
+   "title": "Flights from many European cities to the Dominican Republic from €564",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-dominican-republic-e564/",
+   "source": "Fly4Free",
+   "time": "2026-11-03T07:00:27.000Z",
+   "priceEur": 564,
+   "priceOrig": "564 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/starhotels-hotel-genova-italy/",
    "title": "Refined 4* Starhotels hotel in charming Genova, Italy, from €89/double",
