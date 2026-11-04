@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:02:48.647Z",
+ "updated": "2026-11-04T01:13:12.095Z",
  "ratesDate": "2026-11-03",
  "sources": [
   {
@@ -19,6 +19,18 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-europe-to-penang-e520/",
+   "title": "HIGH SEASON Qatar Airways flights from many European cities to Penang, Malaysia from €520",
+   "link": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-europe-to-penang-e520/",
+   "source": "Fly4Free",
+   "time": "2026-11-03T21:00:18.000Z",
+   "priceEur": 520,
+   "priceOrig": "520 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-bangkok-e490/",
    "title": "Cheap full-service flights from Germany to Thailand from €490",
