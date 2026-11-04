@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:13:12.095Z",
+ "updated": "2026-11-04T12:54:11.001Z",
  "ratesDate": "2026-11-03",
  "sources": [
   {
@@ -19,6 +19,78 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/grand-hotel-rome-e80/",
+   "title": "🇮🇹 4-star stay near the Vatican in Rome from €80/night with breakfast, pool, and private parking",
+   "link": "https://www.fly4free.com/flight-deals/europe/grand-hotel-rome-e80/",
+   "source": "Fly4Free",
+   "time": "2026-11-04T12:30:12.000Z",
+   "priceEur": 80,
+   "priceOrig": "80 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/7-day-cruise-msc-euribia-e499/",
+   "title": "SPRING 2027 Cheap 7-day cruise aboard MSC Euribia from €499 p.p.",
+   "link": "https://www.fly4free.com/flight-deals/europe/7-day-cruise-msc-euribia-e499/",
+   "source": "Fly4Free",
+   "time": "2026-11-04T11:00:07.000Z",
+   "priceEur": 499,
+   "priceOrig": "499 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-tokyo-p451/",
+   "title": "Plan your perfect trip to Japan with cheap full-service flights from London to Tokyo for £451",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-tokyo-p451/",
+   "source": "Fly4Free",
+   "time": "2026-11-04T10:00:03.000Z",
+   "priceEur": 541,
+   "priceOrig": "451 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-vietnam-p574/",
+   "title": "Full-service direct Vietnam Airlines flights from London to Hanoi or Ho Chi Minh from £574",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-vietnam-p574/",
+   "source": "Fly4Free",
+   "time": "2026-11-04T09:00:17.000Z",
+   "priceEur": 689,
+   "priceOrig": "574 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-phuket-e472/",
+   "title": "Cheap full-service flights from Frankfurt to Phuket, Thailand for €472",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-phuket-e472/",
+   "source": "Fly4Free",
+   "time": "2026-11-04T08:00:54.000Z",
+   "priceEur": 472,
+   "priceOrig": "472 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-new-york-e302/",
+   "title": "CHEAP Flights from several German cities to New York from €302",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-new-york-e302/",
+   "source": "Fly4Free",
+   "time": "2026-11-04T07:00:59.000Z",
+   "priceEur": 302,
+   "priceOrig": "302 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-europe-to-penang-e520/",
    "title": "HIGH SEASON Qatar Airways flights from many European cities to Penang, Malaysia from €520",
