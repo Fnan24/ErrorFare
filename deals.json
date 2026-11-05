@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T20:23:05.327Z",
+ "updated": "2026-11-05T01:25:29.280Z",
  "ratesDate": "2026-11-04",
  "sources": [
   {
@@ -19,6 +19,18 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/well-rated-resort-on-koh-tao-e65/",
+   "title": "Welcome to the paradise! Well-rated resort on Koh Tao, Thailand for €65/double with breakfast in high season",
+   "link": "https://www.fly4free.com/flight-deals/europe/well-rated-resort-on-koh-tao-e65/",
+   "source": "Fly4Free",
+   "time": "2026-11-04T21:00:11.000Z",
+   "priceEur": 65,
+   "priceOrig": "65 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/2-in-1-trip-from-bucharest-to-abu-dhabi-and-maldives-qatar-2/",
    "title": "WINTER SUN COMBO! Abu Dhabi + Maldives from Prague for €599 with Qatar Airways",
@@ -93,7 +105,7 @@
   },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e394/",
-   "title": "CARIBBEAN DEAL! Direct flights from Amsterdam to Bonaire from €394 return",
+   "title": "CARIBBEAN DEAL! Direct flights from Amsterdam to Bonaire from €394",
    "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e394/",
    "source": "Fly4Free",
    "time": "2026-11-04T18:30:49.000Z",
@@ -3281,18 +3293,6 @@
    "priceOrig": "586 EUR",
    "error": false,
    "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/one-way-flights-from-scandinavia-to-thailand-e145/",
-   "title": "DEAL ALERT Cheap direct flights from Scandinavia to Thailand from €145 one-way",
-   "link": "https://www.fly4free.com/flight-deals/europe/one-way-flights-from-scandinavia-to-thailand-e145/",
-   "source": "Fly4Free",
-   "time": "2026-10-25T21:00:57.000Z",
-   "priceEur": 145,
-   "priceOrig": "145 EUR",
-   "error": false,
-   "oneway": true,
    "cabin": "economy"
   }
  ]
