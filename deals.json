@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:25:29.280Z",
+ "updated": "2026-11-05T13:02:52.813Z",
  "ratesDate": "2026-11-04",
  "sources": [
   {
@@ -19,6 +19,102 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-kazakhstan-e255/",
+   "title": "Good deal! Cheap non-stop flights from Prague to Kazakhstan for €255",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-kazakhstan-e255/",
+   "source": "Fly4Free",
+   "time": "2026-11-05T13:00:20.000Z",
+   "priceEur": 255,
+   "priceOrig": "255 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-barcelona-e74/",
+   "title": "Barcelona gateway 🇪🇸 Well-rated and centrally located 4 Zenit Barcelona for €74/double",
+   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-barcelona-e74/",
+   "source": "Fly4Free",
+   "time": "2026-11-05T12:00:02.000Z",
+   "priceEur": 74,
+   "priceOrig": "74 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/ryanair-expands-in-germany-new-airport-joins-the-network-with-two-routes/",
+   "title": "Ryanair Expands in Germany: New Airport Joins the Network With Two Routes",
+   "link": "https://www.fly4free.com/flight-deals/europe/ryanair-expands-in-germany-new-airport-joins-the-network-with-two-routes/",
+   "source": "Fly4Free",
+   "time": "2026-11-05T11:26:48.000Z",
+   "priceEur": null,
+   "priceOrig": null,
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-vietnam-e466/",
+   "title": "Cheap full-service flights from Germany to Vietnam from €466",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-vietnam-e466/",
+   "source": "Fly4Free",
+   "time": "2026-11-05T11:00:48.000Z",
+   "priceEur": 466,
+   "priceOrig": "466 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-baja-california-from-prague/",
+   "title": "Holiday in Baja California, Mexico for €770 p.p. Cheap flights from Prague + 7-night B&B stay at well-rated hotel",
+   "link": "https://www.fly4free.com/flight-deals/europe/holiday-in-baja-california-from-prague/",
+   "source": "Fly4Free",
+   "time": "2026-11-05T10:00:06.000Z",
+   "priceEur": 770,
+   "priceOrig": "770 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-south-africa-e421/",
+   "title": "South Africa Summer Cheap full-service flights from many European cities to Cape Town & Johannesburg from €421",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-south-africa-e421/",
+   "source": "Fly4Free",
+   "time": "2026-11-05T09:00:20.000Z",
+   "priceEur": 421,
+   "priceOrig": "421 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-kenya-p482/",
+   "title": "Full-service direct flights from London to Kenya for £482",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-kenya-p482/",
+   "source": "Fly4Free",
+   "time": "2026-11-05T08:00:40.000Z",
+   "priceEur": 578,
+   "priceOrig": "482 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-oslo-to-thailand-e335/",
+   "title": "Lower fares just landed! Cheap non-stop flights from Oslo to Thailand from €335",
+   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-oslo-to-thailand-e335/",
+   "source": "Fly4Free",
+   "time": "2026-11-05T07:00:11.000Z",
+   "priceEur": 335,
+   "priceOrig": "335 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/well-rated-resort-on-koh-tao-e65/",
    "title": "Welcome to the paradise! Well-rated resort on Koh Tao, Thailand for €65/double with breakfast in high season",
@@ -3219,78 +3315,6 @@
    "time": "2026-10-26T14:00:20.000Z",
    "priceEur": 555,
    "priceOrig": "555 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-nepal-e395/",
-   "title": "The Himalayas are calling! Full-service flights from Brussels to Kathmandu, Nepal for €395",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-nepal-e395/",
-   "source": "Fly4Free",
-   "time": "2026-10-26T12:30:11.000Z",
-   "priceEur": 395,
-   "priceOrig": "395 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/meininger-hotel-zurich/",
-   "title": "Switzerland getaway 🇨🇭 Stylish and affordable stay at Meininger hotel in Zurich from €97/double",
-   "link": "https://www.fly4free.com/flight-deals/europe/meininger-hotel-zurich/",
-   "source": "Fly4Free",
-   "time": "2026-10-26T11:00:08.000Z",
-   "priceEur": 97,
-   "priceOrig": "97 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-singapore-e538/",
-   "title": "HIGH SEASON Full-service flights from Frankfurt & Milan to Singapore from €538",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-singapore-e538/",
-   "source": "Fly4Free",
-   "time": "2026-10-26T10:00:40.000Z",
-   "priceEur": 538,
-   "priceOrig": "538 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/turkish-airlines-flights-from-vienna-to-asia-africa-e469/",
-   "title": "Turkish Airlines flights from Vienna to many destinations across Asia & Africa from €469",
-   "link": "https://www.fly4free.com/flight-deals/europe/turkish-airlines-flights-from-vienna-to-asia-africa-e469/",
-   "source": "Fly4Free",
-   "time": "2026-10-26T09:00:52.000Z",
-   "priceEur": 469,
-   "priceOrig": "469 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-the-philippines-e597/",
-   "title": "HIGH SEASON Full-service flights from Amsterdam to the Philippines for €597",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-the-philippines-e597/",
-   "source": "Fly4Free",
-   "time": "2026-10-26T08:00:27.000Z",
-   "priceEur": 597,
-   "priceOrig": "597 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-warsaw-to-tokyo/",
-   "title": "Etihad Airways flights from Warsaw to Tokyo, Japan for €586",
-   "link": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-warsaw-to-tokyo/",
-   "source": "Fly4Free",
-   "time": "2026-10-26T07:00:52.000Z",
-   "priceEur": 586,
-   "priceOrig": "586 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
