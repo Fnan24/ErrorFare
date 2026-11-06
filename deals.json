@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:36:07.247Z",
+ "updated": "2026-11-06T01:28:51.253Z",
  "ratesDate": "2026-11-05",
  "sources": [
   {
@@ -19,6 +19,18 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e532-2/",
+   "title": "Full-service flights from Paris to Bali, Indonesia for €539",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e532-2/",
+   "source": "Fly4Free",
+   "time": "2026-11-05T21:00:33.000Z",
+   "priceEur": 539,
+   "priceOrig": "539 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p593-2/",
    "title": "Flights from London to Peru for £593",
@@ -3495,18 +3507,6 @@
    "time": "2026-10-27T07:00:17.000Z",
    "priceEur": 571,
    "priceOrig": "571 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/2-in-1-trip-from-bucharest-to-abu-dhabi-and-maldives-qatar/",
-   "title": "JANUARY ESCAPE! Abu Dhabi + Maldives in one trip from Bucharest for €652",
-   "link": "https://www.fly4free.com/flight-deals/europe/2-in-1-trip-from-bucharest-to-abu-dhabi-and-maldives-qatar/",
-   "source": "Fly4Free",
-   "time": "2026-10-26T21:00:50.000Z",
-   "priceEur": 652,
-   "priceOrig": "652 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
