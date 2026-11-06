@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T01:28:51.253Z",
+ "updated": "2026-11-06T12:51:41.543Z",
  "ratesDate": "2026-11-05",
  "sources": [
   {
@@ -19,6 +19,78 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/motel-one-hotel-in-munich-e69-2/",
+   "title": "🇩🇪 Premium stay at 4* Pullman Munich from €102/double (including festive period )",
+   "link": "https://www.fly4free.com/flight-deals/europe/motel-one-hotel-in-munich-e69-2/",
+   "source": "Fly4Free",
+   "time": "2026-11-06T12:30:38.000Z",
+   "priceEur": 102,
+   "priceOrig": "102 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/finnair-flights-from-riga-and-vilnius-to-singapore-e562/",
+   "title": "Great deal! Finnair flights from Riga and Vilnius to Singapore from €562",
+   "link": "https://www.fly4free.com/flight-deals/europe/finnair-flights-from-riga-and-vilnius-to-singapore-e562/",
+   "source": "Fly4Free",
+   "time": "2026-11-06T11:00:28.000Z",
+   "priceEur": 562,
+   "priceOrig": "562 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bali-e553/",
+   "title": "BEST SEASON Flights from Vienna to Bali, Indonesia from €553",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bali-e553/",
+   "source": "Fly4Free",
+   "time": "2026-11-06T10:00:04.000Z",
+   "priceEur": 553,
+   "priceOrig": "553 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/trip-from-europe-to-hurghada-zanzibar/",
+   "title": "Exotic 2-in1 trip Flights from many European cities to Zanzibar & the Red Sea Coast from €450",
+   "link": "https://www.fly4free.com/flight-deals/europe/trip-from-europe-to-hurghada-zanzibar/",
+   "source": "Fly4Free",
+   "time": "2026-11-06T09:00:24.000Z",
+   "priceEur": 450,
+   "priceOrig": "450 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-krabi-from-vienna-e804/",
+   "title": "Holiday in Krabi, Thailand for €804 p.p. Flights from Vienna + 10-night stay at top-rated 4* hotel",
+   "link": "https://www.fly4free.com/flight-deals/europe/holiday-in-krabi-from-vienna-e804/",
+   "source": "Fly4Free",
+   "time": "2026-11-06T08:00:49.000Z",
+   "priceEur": 804,
+   "priceOrig": "804 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-spain-to-new-york-e244-4/",
+   "title": "Crazy-low prices Cheap flights from Spain to New York from €244",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-spain-to-new-york-e244-4/",
+   "source": "Fly4Free",
+   "time": "2026-11-06T07:00:57.000Z",
+   "priceEur": 244,
+   "priceOrig": "244 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e532-2/",
    "title": "Full-service flights from Paris to Bali, Indonesia for €539",
@@ -3423,90 +3495,6 @@
    "time": "2026-10-27T13:00:25.000Z",
    "priceEur": 477,
    "priceOrig": "477 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-munich-e65-2/",
-   "title": "Xmas Markets Season Well-rated 4* hotel in picturesque Augsburg, Germany for €65/double",
-   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-munich-e65-2/",
-   "source": "Fly4Free",
-   "time": "2026-10-27T12:00:39.000Z",
-   "priceEur": 65,
-   "priceOrig": "65 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-toronto-e447/",
-   "title": "Flights from Prague to Toronto, Canada for €447",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-toronto-e447/",
-   "source": "Fly4Free",
-   "time": "2026-10-27T11:00:36.000Z",
-   "priceEur": 447,
-   "priceOrig": "447 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-rwanda-e487/",
-   "title": "Full-service non-stop flights from Paris to Rwanda for €487",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-rwanda-e487/",
-   "source": "Fly4Free",
-   "time": "2026-10-27T10:00:04.000Z",
-   "priceEur": 487,
-   "priceOrig": "487 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-taiwan-e408/",
-   "title": "Collection of cheap full-service flights from many European cities to Taiwan from €408",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-taiwan-e408/",
-   "source": "Fly4Free",
-   "time": "2026-10-27T09:00:29.000Z",
-   "priceEur": 408,
-   "priceOrig": "408 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/news/malta-plans-sharp-tourist-tax-increase-up-to-e10-per-night-and-new-fee-for-visiting-comino/",
-   "title": "Malta Plans Sharp Tourist Tax Increase: Up to €10 Per Night and New Fee for Visiting Comino",
-   "link": "https://www.fly4free.com/news/malta-plans-sharp-tourist-tax-increase-up-to-e10-per-night-and-new-fee-for-visiting-comino/",
-   "source": "Fly4Free",
-   "time": "2026-10-27T08:33:21.000Z",
-   "priceEur": 10,
-   "priceOrig": "10 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e489/",
-   "title": "Cheap direct flights from Amsterdam to Bonaire for €489",
-   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e489/",
-   "source": "Fly4Free",
-   "time": "2026-10-27T08:00:54.000Z",
-   "priceEur": 489,
-   "priceOrig": "489 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e571/",
-   "title": "HIGH SEASON Flights from Poland to Sri Lanka from €571",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e571/",
-   "source": "Fly4Free",
-   "time": "2026-10-27T07:00:17.000Z",
-   "priceEur": 571,
-   "priceOrig": "571 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
