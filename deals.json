@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:55:32.042Z",
+ "updated": "2026-11-07T00:50:51.810Z",
  "ratesDate": "2026-11-06",
  "sources": [
   {
@@ -19,6 +19,30 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-copenhagen-to-krabi-singapore-kl/",
+   "title": "Asian classics in high season from Copenhagen Singapore + Kuala Lumpur + Krabi — all flights for €612 total with Etihad and SAS",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-copenhagen-to-krabi-singapore-kl/",
+   "source": "Fly4Free",
+   "time": "2026-11-06T21:00:40.000Z",
+   "priceEur": 612,
+   "priceOrig": "612 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/4-star-stylish-hotel-in-lisbon-e71/",
+   "title": "Lisbon with attitude! ‍ 4* Adults-only hotel with bold design from just €71/double",
+   "link": "https://www.fly4free.com/flight-deals/europe/4-star-stylish-hotel-in-lisbon-e71/",
+   "source": "Fly4Free",
+   "time": "2026-11-06T20:00:02.000Z",
+   "priceEur": 71,
+   "priceOrig": "71 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.theflightdeal.com/2026/11/06/american-san-francisco-la-romana-dominican-republic-430-basic-economy-600-regular-economy-roundtrip-including-all-taxes/",
    "title": "American: San Francisco - La Romana, Dominican Republic. $430 (Basic Economy) / $600 (Regular Economy). Roundtrip, including all Taxes",
@@ -3591,30 +3615,6 @@
    "time": "2026-10-28T09:00:02.000Z",
    "priceEur": 357,
    "priceOrig": "357 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/one-way-flights-from-europe-to-baja-california-e143/",
-   "title": "HOT Cheap one-way flights from many European cities to Baja California, Mexico from €143",
-   "link": "https://www.fly4free.com/flight-deals/europe/one-way-flights-from-europe-to-baja-california-e143/",
-   "source": "Fly4Free",
-   "time": "2026-10-28T08:00:59.000Z",
-   "priceEur": 143,
-   "priceOrig": "143 EUR",
-   "error": false,
-   "oneway": true,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-taiwan-e445/",
-   "title": "Cheap full-service flights from Paris to Taiwan for €445",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-taiwan-e445/",
-   "source": "Fly4Free",
-   "time": "2026-10-28T07:00:26.000Z",
-   "priceEur": 445,
-   "priceOrig": "445 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
