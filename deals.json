@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:50:51.810Z",
+ "updated": "2026-11-07T11:38:49.249Z",
  "ratesDate": "2026-11-06",
  "sources": [
   {
@@ -19,6 +19,54 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/hainan-airlines-flights-from-brussels-to-thailand-e464/",
+   "title": "Cheap full-service Hainan Airlines flights from Brussels to Bangkok, Thailand from €464",
+   "link": "https://www.fly4free.com/flight-deals/europe/hainan-airlines-flights-from-brussels-to-thailand-e464/",
+   "source": "Fly4Free",
+   "time": "2026-11-07T11:00:50.000Z",
+   "priceEur": 464,
+   "priceOrig": "464 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-cape-verde-from-poland/",
+   "title": "Holiday in Cape Verde for €662 p.p. Cheap direct flights from Poland + 7-night B&B stay at well-rated hotel",
+   "link": "https://www.fly4free.com/flight-deals/europe/holiday-in-cape-verde-from-poland/",
+   "source": "Fly4Free",
+   "time": "2026-11-07T10:00:13.000Z",
+   "priceEur": 662,
+   "priceOrig": "662 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-berlin-to-dubai-e246/",
+   "title": "Winter escape to the UAE Cheap non-stop flights from Berlin to Dubai for €246",
+   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-berlin-to-dubai-e246/",
+   "source": "Fly4Free",
+   "time": "2026-11-07T09:00:44.000Z",
+   "priceEur": 246,
+   "priceOrig": "246 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-vietnam-e460/",
+   "title": "Good deal! Cheap full-service flights from Frankfurt to Vietnam for €460",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-vietnam-e460/",
+   "source": "Fly4Free",
+   "time": "2026-11-07T08:00:09.000Z",
+   "priceEur": 460,
+   "priceOrig": "460 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-copenhagen-to-krabi-singapore-kl/",
    "title": "Asian classics in high season from Copenhagen Singapore + Kuala Lumpur + Krabi — all flights for €612 total with Etihad and SAS",
@@ -3567,54 +3615,6 @@
    "time": "2026-10-28T12:00:15.000Z",
    "priceEur": 67,
    "priceOrig": "67 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-vietnam-e576/",
-   "title": "Full-service flights from Vienna to Vietnam from €576",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-vietnam-e576/",
-   "source": "Fly4Free",
-   "time": "2026-10-28T11:00:53.000Z",
-   "priceEur": 576,
-   "priceOrig": "576 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-seoul-e555/",
-   "title": "SUMMER Etihad Airways flights from Prague to Seoul, South Korea for €555",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-seoul-e555/",
-   "source": "Fly4Free",
-   "time": "2026-10-28T10:00:27.000Z",
-   "priceEur": 555,
-   "priceOrig": "555 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/news/goodbye-checkout-cleaning-airbnb-hosts-cant-make-you-clean-anymore/",
-   "title": "Goodbye, Checkout Cleaning: Airbnb Hosts Can’t Make You Clean Anymore",
-   "link": "https://www.fly4free.com/news/goodbye-checkout-cleaning-airbnb-hosts-cant-make-you-clean-anymore/",
-   "source": "Fly4Free",
-   "time": "2026-10-28T09:37:13.000Z",
-   "priceEur": null,
-   "priceOrig": null,
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-vancouver-e357/",
-   "title": "Cheap flights from Paris to Vancouver, Canada for €357",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-vancouver-e357/",
-   "source": "Fly4Free",
-   "time": "2026-10-28T09:00:02.000Z",
-   "priceEur": 357,
-   "priceOrig": "357 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
