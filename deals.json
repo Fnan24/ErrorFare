@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T00:24:43.027Z",
+ "updated": "2026-11-08T11:51:36.354Z",
  "ratesDate": "2026-11-06",
  "sources": [
   {
@@ -19,6 +19,54 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hong-kong-p298/",
+   "title": "Unbeatable fares! Cheap full-service flights from London to Hong Kong for £298",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hong-kong-p298/",
+   "source": "Fly4Free",
+   "time": "2026-11-08T11:01:40.000Z",
+   "priceEur": 357,
+   "priceOrig": "298 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-e495/",
+   "title": "Good deal Cheap full-service flights from Brussels to Phuket & Bangkok, Thailand for €495",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-e495/",
+   "source": "Fly4Free",
+   "time": "2026-11-08T10:00:57.000Z",
+   "priceEur": 495,
+   "priceOrig": "495 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p595/",
+   "title": "Explore the Land of the Incas! Flights from London to Peru for £595",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p595/",
+   "source": "Fly4Free",
+   "time": "2026-11-08T09:00:06.000Z",
+   "priceEur": 713,
+   "priceOrig": "595 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-sri-lanka-e474/",
+   "title": "PEAK SEASON Cheap flights from Vienna to Sri Lanka for €474",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-sri-lanka-e474/",
+   "source": "Fly4Free",
+   "time": "2026-11-08T08:00:23.000Z",
+   "priceEur": 474,
+   "priceOrig": "474 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-zanzibar-e519/",
    "title": "HIGH SEASON Etihad Airways flights from several European cities to exotic Zanzibar from €519",
@@ -3555,66 +3603,6 @@
    "time": "2026-10-29T12:00:51.000Z",
    "priceEur": 242,
    "priceOrig": "242 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-cape-verde-e231/",
-   "title": "Price cut Cheap last minute direct flights from Poland to Cape Verde from €231",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-cape-verde-e231/",
-   "source": "Fly4Free",
-   "time": "2026-10-29T10:55:27.000Z",
-   "priceEur": 231,
-   "priceOrig": "231 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-vietnam-e463-2/",
-   "title": "Cheap full-service flights from Budapest to Vietnam for €463",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-vietnam-e463-2/",
-   "source": "Fly4Free",
-   "time": "2026-10-29T10:00:17.000Z",
-   "priceEur": 463,
-   "priceOrig": "463 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-berlin-to-to-south-east-asia/",
-   "title": "PEAK SEASON Etihad Airways flights from Berlin to Hong Kong & South East Asia from €564",
-   "link": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-berlin-to-to-south-east-asia/",
-   "source": "Fly4Free",
-   "time": "2026-10-29T09:00:31.000Z",
-   "priceEur": 564,
-   "priceOrig": "564 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/ryanair-launches-8-new-routes-from-budapest/",
-   "title": "Ryanair Launches 8 New Routes from Budapest",
-   "link": "https://www.fly4free.com/flight-deals/europe/ryanair-launches-8-new-routes-from-budapest/",
-   "source": "Fly4Free",
-   "time": "2026-10-29T08:36:04.000Z",
-   "priceEur": null,
-   "priceOrig": null,
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-malaga-to-boston-e340/",
-   "title": "GREAT DEAL Cheap flights from Malaga to Boston & New York from €340",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-malaga-to-boston-e340/",
-   "source": "Fly4Free",
-   "time": "2026-10-29T08:00:17.000Z",
-   "priceEur": 340,
-   "priceOrig": "340 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
