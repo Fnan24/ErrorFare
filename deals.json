@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T00:44:06.120Z",
+ "updated": "2026-11-09T13:46:25.139Z",
  "ratesDate": "2026-11-06",
  "sources": [
   {
@@ -19,6 +19,102 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-katowice-to-phuket-e647/",
+   "title": "Last minute LOT direct flights from Poland to Phuket, Thailand for €647",
+   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-katowice-to-phuket-e647/",
+   "source": "Fly4Free",
+   "time": "2026-11-09T13:40:54.000Z",
+   "priceEur": 647,
+   "priceOrig": "647 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-copenhagen-to-south-korea-e582/",
+   "title": "Good price for a direct flight! Copenhagen to Seoul, South Korea for €582",
+   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-copenhagen-to-south-korea-e582/",
+   "source": "Fly4Free",
+   "time": "2026-11-09T13:00:29.000Z",
+   "priceEur": 582,
+   "priceOrig": "582 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-porto-e56/",
+   "title": "Well-rated and central 4* hotel in Porto, Portugal, for €56/double",
+   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-porto-e56/",
+   "source": "Fly4Free",
+   "time": "2026-11-09T12:00:23.000Z",
+   "priceEur": 56,
+   "priceOrig": "56 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-italy-e479/",
+   "title": "Cheap full-service flights from Germany & Italy to Thailand from €479",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-italy-e479/",
+   "source": "Fly4Free",
+   "time": "2026-11-09T11:00:55.000Z",
+   "priceEur": 479,
+   "priceOrig": "479 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-gdansk-to-usa-canada-e315/",
+   "title": "GREAT DEAL Cheap flights from Gdansk, Poland to USA & Canada from €315",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-gdansk-to-usa-canada-e315/",
+   "source": "Fly4Free",
+   "time": "2026-11-09T10:00:17.000Z",
+   "priceEur": 315,
+   "priceOrig": "315 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e544/",
+   "title": "Full-service flights from Amsterdam to Bali, Indonesia for €544",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e544/",
+   "source": "Fly4Free",
+   "time": "2026-11-09T09:00:50.000Z",
+   "priceEur": 544,
+   "priceOrig": "544 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-the-uk-to-bangkok-p412/",
+   "title": "Cheap non-stop flights from Manchester & London to Bangkok, Thailand for £412",
+   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-the-uk-to-bangkok-p412/",
+   "source": "Fly4Free",
+   "time": "2026-11-09T08:00:45.000Z",
+   "priceEur": 494,
+   "priceOrig": "412 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-south-korea/",
+   "title": "Etihad Airways flights from several European cities to South Korea from €537",
+   "link": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-south-korea/",
+   "source": "Fly4Free",
+   "time": "2026-11-09T07:00:37.000Z",
+   "priceEur": 537,
+   "priceOrig": "537 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p448/",
    "title": "XMAS, NYE & SUMMER! Non-stop flights from London to Seattle for £448",
@@ -3507,90 +3603,6 @@
    "time": "2026-10-30T14:00:41.000Z",
    "priceEur": 473,
    "priceOrig": "473 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-paris-to-martinique-e487/",
-   "title": "High season in the Caribbean Cheap flights from Paris to Martinique from €487",
-   "link": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-paris-to-martinique-e487/",
-   "source": "Fly4Free",
-   "time": "2026-10-30T12:35:34.000Z",
-   "priceEur": 487,
-   "priceOrig": "487 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/stockholm-ruby-ihg-hotel/",
-   "title": "City break in Stockholm! 🇸🇪 Design-led Ruby Frida Hotel by IHG from €68 per night",
-   "link": "https://www.fly4free.com/flight-deals/europe/stockholm-ruby-ihg-hotel/",
-   "source": "Fly4Free",
-   "time": "2026-10-30T11:00:20.000Z",
-   "priceEur": 68,
-   "priceOrig": "68 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seoul-p405/",
-   "title": "Cheap full-service flights from London to Seoul, South Korea for £405",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seoul-p405/",
-   "source": "Fly4Free",
-   "time": "2026-10-30T10:00:06.000Z",
-   "priceEur": 486,
-   "priceOrig": "405 GBP",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-helsinki-to-vietnam-thailand/",
-   "title": "Qatar Airways flights from Helsinki to Thailand & Vietnam from €572",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-helsinki-to-vietnam-thailand/",
-   "source": "Fly4Free",
-   "time": "2026-10-30T09:00:31.000Z",
-   "priceEur": 572,
-   "priceOrig": "572 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/news/travellers-trust-ai-to-find-cheaper-hotels-but-not-to-plan-their-holidays/",
-   "title": "Travellers Trust AI to Find Cheaper Hotels, but Not to Plan Their Holidays, Study Finds",
-   "link": "https://www.fly4free.com/news/travellers-trust-ai-to-find-cheaper-hotels-but-not-to-plan-their-holidays/",
-   "source": "Fly4Free",
-   "time": "2026-10-30T08:44:22.000Z",
-   "priceEur": null,
-   "priceOrig": null,
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-calgary-p387/",
-   "title": "Cheap non-stop flights from London to Calgary - gateway to amazing Banff National Park in Canada for £387",
-   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-london-to-calgary-p387/",
-   "source": "Fly4Free",
-   "time": "2026-10-30T08:00:30.000Z",
-   "priceEur": 464,
-   "priceOrig": "387 GBP",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-vietnam-e388-2/",
-   "title": "HIGH SEASON Cheap full-service flights from Brussels to Vietnam from €388",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-vietnam-e388-2/",
-   "source": "Fly4Free",
-   "time": "2026-10-30T07:00:40.000Z",
-   "priceEur": 388,
-   "priceOrig": "388 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
