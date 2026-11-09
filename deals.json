@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:18:56.094Z",
+ "updated": "2026-11-09T00:44:06.120Z",
  "ratesDate": "2026-11-06",
  "sources": [
   {
@@ -19,6 +19,114 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p448/",
+   "title": "XMAS, NYE & SUMMER! Non-stop flights from London to Seattle for £448",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p448/",
+   "source": "Fly4Free",
+   "time": "2026-11-08T21:00:23.000Z",
+   "priceEur": 537,
+   "priceOrig": "448 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-tenerife-from-poland/",
+   "title": "Winter escape to the Canary Islands for €427 p.p. Direct flights from Poland + 7-night stay at well-rated aparthotel in Tenerife",
+   "link": "https://www.fly4free.com/flight-deals/europe/holiday-in-tenerife-from-poland/",
+   "source": "Fly4Free",
+   "time": "2026-11-08T20:00:20.000Z",
+   "priceEur": 427,
+   "priceOrig": "427 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/08/united-san-francisco-cancun-mexico-390-basic-economy-520-regular-economy-roundtrip-including-all-taxes/",
+   "title": "United: San Francisco – Cancun, Mexico. $390 (Basic Economy) / $520 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/08/united-san-francisco-cancun-mexico-390-basic-economy-520-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-08T19:53:41.000Z",
+   "priceEur": 349,
+   "priceOrig": "390 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/08/delta-los-angeles-philadelphia-and-vice-versa-256-basic-economy-386-regular-economy-roundtrip-including-all-taxes/",
+   "title": "Delta: Los Angeles - Philadelphia (and vice versa). $256 (Basic Economy) / $386 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/08/delta-los-angeles-philadelphia-and-vice-versa-256-basic-economy-386-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-08T19:28:21.000Z",
+   "priceEur": 229,
+   "priceOrig": "256 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/08/delta-portland-warsaw-poland-731-basic-economy-971-regular-economy-roundtrip-including-all-taxes/",
+   "title": "Delta: Portland - Warsaw, Poland. $731 (Basic Economy) / $971 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/08/delta-portland-warsaw-poland-731-basic-economy-971-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-08T19:23:56.000Z",
+   "priceEur": 655,
+   "priceOrig": "731 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/08/delta-phoenix-montego-bay-jamaica-363-basic-economy-483-regular-economy-roundtrip-including-all-taxes/",
+   "title": "Delta: Phoenix – Montego Bay, Jamaica. $363 (Basic Economy) / $483 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/08/delta-phoenix-montego-bay-jamaica-363-basic-economy-483-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-08T19:18:54.000Z",
+   "priceEur": 325,
+   "priceOrig": "363 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-sri-lanka-e563/",
+   "title": "HIGH SEASON Full-service flights from Frankfurt to Sri Lanka from €563",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-sri-lanka-e563/",
+   "source": "Fly4Free",
+   "time": "2026-11-08T19:00:30.000Z",
+   "priceEur": 563,
+   "priceOrig": "563 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/08/american-new-york-saint-vincent-and-the-grenadines-347-basic-economy-447-regular-economy-roundtrip-including-all-taxes/",
+   "title": "American: New York - Saint Vincent and the Grenadines. $347 (Basic Economy) / $447 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/08/american-new-york-saint-vincent-and-the-grenadines-347-basic-economy-447-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-08T18:53:42.000Z",
+   "priceEur": 311,
+   "priceOrig": "347 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/08/cathay-pacific-san-francisco-surabaya-indonesia-910-roundtrip-including-all-taxes/",
+   "title": "Cathay Pacific: San Francisco - Surabaya, Indonesia. $910. Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/08/cathay-pacific-san-francisco-surabaya-indonesia-910-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-08T18:23:26.000Z",
+   "priceEur": 815,
+   "priceOrig": "910 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.theflightdeal.com/2026/11/08/delta-philadelphia-liberia-costa-rica-270-basic-economy-390-regular-economy-roundtrip-including-all-taxes/",
    "title": "Delta: Philadelphia - Liberia, Costa Rica. $270 (Basic Economy) / $390 (Regular Economy). Roundtrip, including all Taxes",
@@ -3483,90 +3591,6 @@
    "time": "2026-10-30T07:00:40.000Z",
    "priceEur": 388,
    "priceOrig": "388 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/lights-from-europe-to-new-zealand-e490/",
-   "title": "HOT DEAL Open-jaw flights from Europe to New Zealand and Australia from only €490",
-   "link": "https://www.fly4free.com/flight-deals/europe/lights-from-europe-to-new-zealand-e490/",
-   "source": "Fly4Free",
-   "time": "2026-10-29T21:30:46.000Z",
-   "priceEur": 490,
-   "priceOrig": "490 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-mumbai-e325/",
-   "title": "Cheap flights from Vienna to Mumbai, India for €325",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-mumbai-e325/",
-   "source": "Fly4Free",
-   "time": "2026-10-29T20:00:10.000Z",
-   "priceEur": 325,
-   "priceOrig": "325 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-australia-p480/",
-   "title": "Explore Australia! Cheap full-service flights from London to Melbourne & Sydney from £480",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-australia-p480/",
-   "source": "Fly4Free",
-   "time": "2026-10-29T19:00:33.000Z",
-   "priceEur": 576,
-   "priceOrig": "480 GBP",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.theflightdeal.com/2026/10/29/united-san-francisco-newark-and-vice-versa-257-basic-economy-387-regular-economy-roundtrip-including-all-taxes/",
-   "title": "United: San Francisco - Newark (and vice versa). $257 (Basic Economy) / $387 (Regular Economy). Roundtrip, including all Taxes",
-   "link": "https://www.theflightdeal.com/2026/10/29/united-san-francisco-newark-and-vice-versa-257-basic-economy-387-regular-economy-roundtrip-including-all-taxes/",
-   "source": "The Flight Deal",
-   "time": "2026-10-29T18:33:53.000Z",
-   "priceEur": 230,
-   "priceOrig": "257 USD",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand/",
-   "title": "Full-service flights from London & Stockholm to New Zealand from €647",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-stockholm-to-new-zealand/",
-   "source": "Fly4Free",
-   "time": "2026-10-29T18:30:18.000Z",
-   "priceEur": 647,
-   "priceOrig": "647 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.theflightdeal.com/2026/10/29/american-los-angeles-st-maarten-305-basic-economy-465-regular-economy-roundtrip-including-all-taxes/",
-   "title": "American: Los Angeles - St. Maarten. $305 (Basic Economy) / $465 (Regular Economy). Roundtrip, including all Taxes",
-   "link": "https://www.theflightdeal.com/2026/10/29/american-los-angeles-st-maarten-305-basic-economy-465-regular-economy-roundtrip-including-all-taxes/",
-   "source": "The Flight Deal",
-   "time": "2026-10-29T18:28:21.000Z",
-   "priceEur": 273,
-   "priceOrig": "305 USD",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.theflightdeal.com/2026/10/29/icelandair-portland-oslo-norway-476-basic-economy-596-regular-economy-roundtrip-including-all-taxes/",
-   "title": "Icelandair: Portland - Oslo, Norway. $476 (Basic Economy) / $596 (Regular Economy). Roundtrip, including all Taxes",
-   "link": "https://www.theflightdeal.com/2026/10/29/icelandair-portland-oslo-norway-476-basic-economy-596-regular-economy-roundtrip-including-all-taxes/",
-   "source": "The Flight Deal",
-   "time": "2026-10-29T18:23:18.000Z",
-   "priceEur": 428,
-   "priceOrig": "476 USD",
    "error": false,
    "oneway": false,
    "cabin": "economy"
