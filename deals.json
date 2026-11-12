@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T20:08:15.576Z",
+ "updated": "2026-11-12T02:12:33.205Z",
  "ratesDate": "2026-11-11",
  "sources": [
   {
@@ -19,6 +19,18 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-brunei-p453/",
+   "title": "GREAT DEAL Cheap full-service flights from London to Brunei for £453",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-brunei-p453/",
+   "source": "Fly4Free",
+   "time": "2026-11-11T21:00:50.000Z",
+   "priceEur": 542,
+   "priceOrig": "453 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-beijing-e495/",
    "title": "Cheap full-service flights from Budapest to Beijing, China for €495",
@@ -3603,18 +3615,6 @@
    "time": "2026-11-02T07:00:28.000Z",
    "priceEur": 562,
    "priceOrig": "562 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p367/",
-   "title": "Cheap flights from London to Seattle for £367 or £391 over Summer",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p367/",
-   "source": "Fly4Free",
-   "time": "2026-11-01T21:00:16.000Z",
-   "priceEur": 440,
-   "priceOrig": "367 GBP",
    "error": false,
    "oneway": false,
    "cabin": "economy"
