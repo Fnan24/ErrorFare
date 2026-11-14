@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T01:24:01.325Z",
+ "updated": "2026-11-14T12:02:34.629Z",
  "ratesDate": "2026-11-13",
  "sources": [
   {
@@ -19,6 +19,66 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/4-star-resort-in-zanzibar-e54/",
+   "title": "B&B stay at beachfront 4* Protels La Plage Resort in Zanzibar for €54/double",
+   "link": "https://www.fly4free.com/flight-deals/europe/4-star-resort-in-zanzibar-e54/",
+   "source": "Fly4Free",
+   "time": "2026-11-14T12:00:53.000Z",
+   "priceEur": 54,
+   "priceOrig": "54 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-philippines-e491/",
+   "title": "Cheap full-service flights from many European cities to the Philippines from €491",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-the-philippines-e491/",
+   "source": "Fly4Free",
+   "time": "2026-11-14T11:00:17.000Z",
+   "priceEur": 491,
+   "priceOrig": "491 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-madeira-e38/",
+   "title": "Cheap non-stop flights from many European cities to Madeira from €38",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-madeira-e38/",
+   "source": "Fly4Free",
+   "time": "2026-11-14T10:00:01.000Z",
+   "priceEur": 38,
+   "priceOrig": "38 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e380/",
+   "title": "CARIBBEAN DEAL! Direct flights from Amsterdam to Bonaire for €380",
+   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-amsterdam-to-bonaire-e380/",
+   "source": "Fly4Free",
+   "time": "2026-11-14T09:00:08.000Z",
+   "priceEur": 380,
+   "priceOrig": "380 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-the-dominican-republic-e593/",
+   "title": "Last-minute full-service direct flights from Warsaw to the Dominican Republic for €593",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-the-dominican-republic-e593/",
+   "source": "Fly4Free",
+   "time": "2026-11-14T08:00:48.000Z",
+   "priceEur": 593,
+   "priceOrig": "593 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-phuket-bangkok-krabi/",
    "title": "HUGE collection of cheap Etihad Airways flights from many European cities to Phuket, Krabi, and Bangkok, Thailand from €434",
@@ -3555,66 +3615,6 @@
    "time": "2026-11-04T14:00:15.000Z",
    "priceEur": 514,
    "priceOrig": "514 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/grand-hotel-rome-e80/",
-   "title": "🇮🇹 4-star stay near the Vatican in Rome from €80/night with breakfast, pool, and private parking",
-   "link": "https://www.fly4free.com/flight-deals/europe/grand-hotel-rome-e80/",
-   "source": "Fly4Free",
-   "time": "2026-11-04T12:30:12.000Z",
-   "priceEur": 80,
-   "priceOrig": "80 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/7-day-cruise-msc-euribia-e499/",
-   "title": "SPRING 2027 Cheap 7-day cruise aboard MSC Euribia from €499 p.p.",
-   "link": "https://www.fly4free.com/flight-deals/europe/7-day-cruise-msc-euribia-e499/",
-   "source": "Fly4Free",
-   "time": "2026-11-04T11:00:07.000Z",
-   "priceEur": 499,
-   "priceOrig": "499 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-tokyo-p451/",
-   "title": "Plan your perfect trip to Japan with cheap full-service flights from London to Tokyo for £451",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-tokyo-p451/",
-   "source": "Fly4Free",
-   "time": "2026-11-04T10:00:03.000Z",
-   "priceEur": 541,
-   "priceOrig": "451 GBP",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-vietnam-p574/",
-   "title": "Full-service direct Vietnam Airlines flights from London to Hanoi or Ho Chi Minh from £574",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-vietnam-p574/",
-   "source": "Fly4Free",
-   "time": "2026-11-04T09:00:17.000Z",
-   "priceEur": 688,
-   "priceOrig": "574 GBP",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-phuket-e472/",
-   "title": "Cheap full-service flights from Frankfurt to Phuket, Thailand for €472",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-phuket-e472/",
-   "source": "Fly4Free",
-   "time": "2026-11-04T08:00:54.000Z",
-   "priceEur": 472,
-   "priceOrig": "472 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
