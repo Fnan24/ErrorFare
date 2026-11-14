@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:26:40.621Z",
+ "updated": "2026-11-14T01:24:01.325Z",
  "ratesDate": "2026-11-13",
  "sources": [
   {
@@ -19,6 +19,18 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-phuket-bangkok-krabi/",
+   "title": "HUGE collection of cheap Etihad Airways flights from many European cities to Phuket, Krabi, and Bangkok, Thailand from €434",
+   "link": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-europe-to-phuket-bangkok-krabi/",
+   "source": "Fly4Free",
+   "time": "2026-11-13T21:00:56.000Z",
+   "priceEur": 434,
+   "priceOrig": "434 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/skiing-northern-lights-levi-lapland-p298/",
    "title": "🇫🇮 Skiing and Northern Lights chasing in Levi, Lapland for £298 p.p: non-stop flights from London + 5-day stay with private sauna",
@@ -3603,18 +3615,6 @@
    "time": "2026-11-04T08:00:54.000Z",
    "priceEur": 472,
    "priceOrig": "472 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-new-york-e302/",
-   "title": "CHEAP Flights from several German cities to New York from €302",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-new-york-e302/",
-   "source": "Fly4Free",
-   "time": "2026-11-04T07:00:59.000Z",
-   "priceEur": 302,
-   "priceOrig": "302 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
