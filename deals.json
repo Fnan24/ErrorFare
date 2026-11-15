@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T00:57:42.679Z",
+ "updated": "2026-11-15T12:38:46.606Z",
  "ratesDate": "2026-11-13",
  "sources": [
   {
@@ -20,6 +20,66 @@
  ],
  "deals": [
   {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e483/",
+   "title": "Malaysia last minute Cheap full-service LOT direct flights from Warsaw to Penang for €483",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e483/",
+   "source": "Fly4Free",
+   "time": "2026-11-15T12:00:44.000Z",
+   "priceEur": 483,
+   "priceOrig": "483 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-madeira-p57/",
+   "title": "Cheap non-stop flights from Manchester to Madeira from £57",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-madeira-p57/",
+   "source": "Fly4Free",
+   "time": "2026-11-15T11:00:48.000Z",
+   "priceEur": 68,
+   "priceOrig": "57 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/lot-direct-flights-from-warsaw-to-phuket-e632/",
+   "title": "Thailand last minute! Full-service LOT direct flights from Warsaw to Phuket for €632",
+   "link": "https://www.fly4free.com/flight-deals/europe/lot-direct-flights-from-warsaw-to-phuket-e632/",
+   "source": "Fly4Free",
+   "time": "2026-11-15T10:00:54.000Z",
+   "priceEur": 632,
+   "priceOrig": "632 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-jeju/",
+   "title": "Cheap full-service flights from London to the island of Jeju, South Korea for £477",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-jeju/",
+   "source": "Fly4Free",
+   "time": "2026-11-15T08:59:33.000Z",
+   "priceEur": 571,
+   "priceOrig": "477 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bangkok-e465/",
+   "title": "Cheap full-service flights from Vienna to Bangkok, Thailand for €465",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bangkok-e465/",
+   "source": "Fly4Free",
+   "time": "2026-11-15T08:00:38.000Z",
+   "priceEur": 465,
+   "priceOrig": "465 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
    "id": "https://www.fly4free.com/news/wizz-air-switches-brussels-airports-reach-the-city-centre-in-under-20-minutes/",
    "title": "Wizz Air switches Brussels airports: reach the city centre in under 20 minutes",
    "link": "https://www.fly4free.com/news/wizz-air-switches-brussels-airports-reach-the-city-centre-in-under-20-minutes/",
@@ -33,7 +93,7 @@
   },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hainan-p468/",
-   "title": "Full-service flights from London to the island of Hainan, China for £468",
+   "title": "Full-service flights from London to the tropical island of Hainan, China for £468",
    "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-hainan-p468/",
    "source": "Fly4Free",
    "time": "2026-11-14T21:00:56.000Z",
@@ -3555,66 +3615,6 @@
    "time": "2026-11-05T14:00:44.000Z",
    "priceEur": 543,
    "priceOrig": "543 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-kazakhstan-e255/",
-   "title": "Good deal! Cheap non-stop flights from Prague to Kazakhstan for €255",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-kazakhstan-e255/",
-   "source": "Fly4Free",
-   "time": "2026-11-05T13:00:20.000Z",
-   "priceEur": 255,
-   "priceOrig": "255 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-barcelona-e74/",
-   "title": "Barcelona gateway 🇪🇸 Well-rated and centrally located 4 Zenit Barcelona for €74/double",
-   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-barcelona-e74/",
-   "source": "Fly4Free",
-   "time": "2026-11-05T12:00:02.000Z",
-   "priceEur": 74,
-   "priceOrig": "74 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/ryanair-expands-in-germany-new-airport-joins-the-network-with-two-routes/",
-   "title": "Ryanair Expands in Germany: New Airport Joins the Network With Two Routes",
-   "link": "https://www.fly4free.com/flight-deals/europe/ryanair-expands-in-germany-new-airport-joins-the-network-with-two-routes/",
-   "source": "Fly4Free",
-   "time": "2026-11-05T11:26:48.000Z",
-   "priceEur": null,
-   "priceOrig": null,
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-vietnam-e466/",
-   "title": "Cheap full-service flights from Germany to Vietnam from €466",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-vietnam-e466/",
-   "source": "Fly4Free",
-   "time": "2026-11-05T11:00:48.000Z",
-   "priceEur": 466,
-   "priceOrig": "466 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-baja-california-from-prague/",
-   "title": "Holiday in Baja California, Mexico for €770 p.p. Cheap flights from Prague + 7-night B&B stay at well-rated hotel",
-   "link": "https://www.fly4free.com/flight-deals/europe/holiday-in-baja-california-from-prague/",
-   "source": "Fly4Free",
-   "time": "2026-11-05T10:00:06.000Z",
-   "priceEur": 770,
-   "priceOrig": "770 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
