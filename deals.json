@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T00:56:05.734Z",
+ "updated": "2026-11-16T13:30:55.890Z",
  "ratesDate": "2026-11-13",
  "sources": [
   {
@@ -19,6 +19,90 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-warsaw-to-the-philippines-e590/",
+   "title": "Great deal! Qatar Airways flights from Warsaw to Cebu, Philippines from €590",
+   "link": "https://www.fly4free.com/flight-deals/europe/qatar-airways-flights-from-warsaw-to-the-philippines-e590/",
+   "source": "Fly4Free",
+   "time": "2026-11-16T12:30:20.000Z",
+   "priceEur": 590,
+   "priceOrig": "590 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-prague-e44-with-sauna/",
+   "title": "CHEAP 🇨🇿 Classic Prague stay in a historic 4-star hotel near the Dancing House from €44/night",
+   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-prague-e44-with-sauna/",
+   "source": "Fly4Free",
+   "time": "2026-11-16T11:00:42.000Z",
+   "priceEur": 44,
+   "priceOrig": "44 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-the-dominican-republic-e620/",
+   "title": "HIGH SEASON Non-stop flights from Paris to the Dominican Republic for €620",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-the-dominican-republic-e620/",
+   "source": "Fly4Free",
+   "time": "2026-11-16T10:00:00.000Z",
+   "priceEur": 620,
+   "priceOrig": "620 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/%e2%9a%a1%e2%9a%a1-wizz-air-plans-loyalty-programme-with-points-and-miles/",
+   "title": "Wizz Air plans Loyalty Programme with points and miles",
+   "link": "https://www.fly4free.com/flight-deals/europe/%e2%9a%a1%e2%9a%a1-wizz-air-plans-loyalty-programme-with-points-and-miles/",
+   "source": "Fly4Free",
+   "time": "2026-11-16T09:47:10.000Z",
+   "priceEur": null,
+   "priceOrig": null,
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/open-jaw-flights-from-prague-to-vietnam-462/",
+   "title": "Cheap open-jaw flights from Prague to Vietnam, returning to London for €462",
+   "link": "https://www.fly4free.com/flight-deals/europe/open-jaw-flights-from-prague-to-vietnam-462/",
+   "source": "Fly4Free",
+   "time": "2026-11-16T09:00:42.000Z",
+   "priceEur": 462,
+   "priceOrig": "462 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-south-korea-e475/",
+   "title": "Good deal Cheap full-service flights from Budapest to Seoul, South Korea for €475",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-south-korea-e475/",
+   "source": "Fly4Free",
+   "time": "2026-11-16T08:00:13.000Z",
+   "priceEur": 475,
+   "priceOrig": "475 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-vienna-e673/",
+   "title": "Thailand in High Season Holiday in Phuket for €673 p.p: Full-service flights from Vienna + 10-night stay at top-rated 4* hotel",
+   "link": "https://www.fly4free.com/flight-deals/europe/holiday-in-phuket-from-vienna-e673/",
+   "source": "Fly4Free",
+   "time": "2026-11-16T07:00:08.000Z",
+   "priceEur": 673,
+   "priceOrig": "673 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-taiwan-e477/",
    "title": "Cheap full-service flights from Budapest to Taiwan for €477",
@@ -369,7 +453,7 @@
   },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bangkok-e465/",
-   "title": "Cheap full-service flights from Vienna to Bangkok, Thailand for €465",
+   "title": "Cheap full-service flights from Vienna to Phuket & Bangkok, Thailand from €465",
    "link": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bangkok-e465/",
    "source": "Fly4Free",
    "time": "2026-11-15T08:00:38.000Z",
@@ -3531,90 +3615,6 @@
    "time": "2026-11-06T15:57:09.000Z",
    "priceEur": null,
    "priceOrig": null,
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e571/",
-   "title": "LAST-MINUTE MALAYSIA! Direct LOT flights from Warsaw to Penang from €571 return",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-penang-e571/",
-   "source": "Fly4Free",
-   "time": "2026-11-06T15:30:03.000Z",
-   "priceEur": 571,
-   "priceOrig": "571 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-cape-town-e474-2/",
-   "title": "Great fares! Flights from many European cities to Cape Town from €370 return",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-cape-town-e474-2/",
-   "source": "Fly4Free",
-   "time": "2026-11-06T14:00:43.000Z",
-   "priceEur": 370,
-   "priceOrig": "370 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/motel-one-hotel-in-munich-e69-2/",
-   "title": "🇩🇪 Premium stay at 4* Pullman Munich from €102/double (including festive period )",
-   "link": "https://www.fly4free.com/flight-deals/europe/motel-one-hotel-in-munich-e69-2/",
-   "source": "Fly4Free",
-   "time": "2026-11-06T12:30:38.000Z",
-   "priceEur": 102,
-   "priceOrig": "102 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/finnair-flights-from-riga-and-vilnius-to-singapore-e562/",
-   "title": "Great deal! Finnair flights from Riga and Vilnius to Singapore from €562",
-   "link": "https://www.fly4free.com/flight-deals/europe/finnair-flights-from-riga-and-vilnius-to-singapore-e562/",
-   "source": "Fly4Free",
-   "time": "2026-11-06T11:00:28.000Z",
-   "priceEur": 562,
-   "priceOrig": "562 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bali-e553/",
-   "title": "BEST SEASON Flights from Vienna to Bali, Indonesia from €555",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-bali-e553/",
-   "source": "Fly4Free",
-   "time": "2026-11-06T10:00:04.000Z",
-   "priceEur": 555,
-   "priceOrig": "555 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/trip-from-europe-to-hurghada-zanzibar/",
-   "title": "Exotic 2-in1 trip Flights from many European cities to Zanzibar & the Red Sea Coast from €450",
-   "link": "https://www.fly4free.com/flight-deals/europe/trip-from-europe-to-hurghada-zanzibar/",
-   "source": "Fly4Free",
-   "time": "2026-11-06T09:00:24.000Z",
-   "priceEur": 450,
-   "priceOrig": "450 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-krabi-from-vienna-e804/",
-   "title": "Holiday in Krabi, Thailand for €804 p.p. Flights from Vienna + 10-night stay at top-rated 4* hotel",
-   "link": "https://www.fly4free.com/flight-deals/europe/holiday-in-krabi-from-vienna-e804/",
-   "source": "Fly4Free",
-   "time": "2026-11-06T08:00:49.000Z",
-   "priceEur": 804,
-   "priceOrig": "804 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
