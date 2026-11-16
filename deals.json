@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T19:19:51.242Z",
+ "updated": "2026-11-16T00:56:05.734Z",
  "ratesDate": "2026-11-13",
  "sources": [
   {
@@ -19,6 +19,66 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-taiwan-e477/",
+   "title": "Cheap full-service flights from Budapest to Taiwan for €477",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-taiwan-e477/",
+   "source": "Fly4Free",
+   "time": "2026-11-15T21:00:00.000Z",
+   "priceEur": 477,
+   "priceOrig": "477 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-the-philippines-e559-2/",
+   "title": "HIGH SEASON Full-service flights from Amsterdam to the Philippines for €559",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-the-philippines-e559-2/",
+   "source": "Fly4Free",
+   "time": "2026-11-15T20:00:29.000Z",
+   "priceEur": 559,
+   "priceOrig": "559 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/15/scandinavian-airlines-san-francisco-trondheim-norway-655-basic-economy-735-regular-economy-roundtrip-including-all-taxes/",
+   "title": "Scandinavian Airlines: San Francisco - Trondheim, Norway. $655 (Basic Economy) / $735 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/15/scandinavian-airlines-san-francisco-trondheim-norway-655-basic-economy-735-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-15T19:53:15.000Z",
+   "priceEur": 593,
+   "priceOrig": "655 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/15/scandinavian-air-los-angeles-trondheim-norway-587-basic-economy-667-regular-economy-roundtrip-including-all-taxes/",
+   "title": "Scandinavian Air: Los Angeles - Trondheim, Norway. $587 (Basic Economy) / $667 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/15/scandinavian-air-los-angeles-trondheim-norway-587-basic-economy-667-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-15T19:28:08.000Z",
+   "priceEur": 531,
+   "priceOrig": "587 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.theflightdeal.com/2026/11/15/icelandair-portland-bergen-norway-562-basic-economy-682-regular-economy-roundtrip-including-all-taxes/",
+   "title": "Icelandair: Portland - Bergen, Norway. $562 (Basic Economy) / $682 (Regular Economy). Roundtrip, including all Taxes",
+   "link": "https://www.theflightdeal.com/2026/11/15/icelandair-portland-bergen-norway-562-basic-economy-682-regular-economy-roundtrip-including-all-taxes/",
+   "source": "The Flight Deal",
+   "time": "2026-11-15T19:23:49.000Z",
+   "priceEur": 509,
+   "priceOrig": "562 USD",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.theflightdeal.com/2026/11/15/delta-phoenix-manila-philippines-805-basic-economy-925-regular-economy-roundtrip-including-all-taxes/",
    "title": "Delta: Phoenix - Manila, Philippines. $805 (Basic Economy) / $925 (Regular Economy). Roundtrip, including all Taxes",
@@ -3555,66 +3615,6 @@
    "time": "2026-11-06T08:00:49.000Z",
    "priceEur": 804,
    "priceOrig": "804 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-spain-to-new-york-e244-4/",
-   "title": "Crazy-low prices Cheap flights from Spain to New York from €244",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-spain-to-new-york-e244-4/",
-   "source": "Fly4Free",
-   "time": "2026-11-06T07:00:57.000Z",
-   "priceEur": 244,
-   "priceOrig": "244 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e532-2/",
-   "title": "Full-service flights from Paris to Bali, Indonesia for €539",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e532-2/",
-   "source": "Fly4Free",
-   "time": "2026-11-05T21:00:33.000Z",
-   "priceEur": 539,
-   "priceOrig": "539 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p593-2/",
-   "title": "Flights from London to Peru for £593",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-peru-p593-2/",
-   "source": "Fly4Free",
-   "time": "2026-11-05T20:00:21.000Z",
-   "priceEur": 711,
-   "priceOrig": "593 GBP",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.theflightdeal.com/2026/11/05/cathay-pacific-san-francisco-cebu-philippines-804-roundtrip-including-all-taxes/",
-   "title": "Cathay Pacific: San Francisco - Cebu, Philippines. $804. Roundtrip, including all Taxes",
-   "link": "https://www.theflightdeal.com/2026/11/05/cathay-pacific-san-francisco-cebu-philippines-804-roundtrip-including-all-taxes/",
-   "source": "The Flight Deal",
-   "time": "2026-11-05T19:53:59.000Z",
-   "priceEur": 720,
-   "priceOrig": "804 USD",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.theflightdeal.com/2026/11/05/klm-royal-dutch-los-angeles-billund-denmark-657-basic-economy-897-regular-economy-roundtrip-including-all-taxes/",
-   "title": "KLM Royal Dutch: Los Angeles - Billund, Denmark. $657 (Basic Economy) / $897 (Regular Economy). Roundtrip, including all Taxes",
-   "link": "https://www.theflightdeal.com/2026/11/05/klm-royal-dutch-los-angeles-billund-denmark-657-basic-economy-897-regular-economy-roundtrip-including-all-taxes/",
-   "source": "The Flight Deal",
-   "time": "2026-11-05T19:28:24.000Z",
-   "priceEur": 585,
-   "priceOrig": "657 USD",
    "error": false,
    "oneway": false,
    "cabin": "economy"
