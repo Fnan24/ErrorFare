@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T00:44:31.558Z",
+ "updated": "2026-11-17T14:16:11.782Z",
  "ratesDate": "2026-11-16",
  "sources": [
   {
@@ -19,6 +19,102 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-cape-verde-e293/",
+   "title": "Cheap last-minute direct flights from Poland to Cape Verde from €293",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-cape-verde-e293/",
+   "source": "Fly4Free",
+   "time": "2026-11-17T14:00:32.000Z",
+   "priceEur": 293,
+   "priceOrig": "293 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-rome-e74/",
+   "title": "City break in the Eternal City Well-rated and central 4* hotel in Rome for €74/double",
+   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-rome-e74/",
+   "source": "Fly4Free",
+   "time": "2026-11-17T13:00:03.000Z",
+   "priceEur": 74,
+   "priceOrig": "74 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mauritius-e375/",
+   "title": "Fantastic fares! Cheap flights from many European cities to paradise-like Mauritius from €375",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mauritius-e375/",
+   "source": "Fly4Free",
+   "time": "2026-11-17T12:01:25.000Z",
+   "priceEur": 375,
+   "priceOrig": "375 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-peru-p578/",
+   "title": "Explore the Land of the Incas! Air France/KLM flights from many UK cities to Peru from £578",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-peru-p578/",
+   "source": "Fly4Free",
+   "time": "2026-11-17T11:00:38.000Z",
+   "priceEur": 693,
+   "priceOrig": "578 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-warsaw-to-the-philippines-e572/",
+   "title": "HIGH SEASON Etihad Airways flights from Warsaw to the Philippines for €572",
+   "link": "https://www.fly4free.com/flight-deals/europe/etihad-airways-flights-from-warsaw-to-the-philippines-e572/",
+   "source": "Fly4Free",
+   "time": "2026-11-17T10:00:50.000Z",
+   "priceEur": 572,
+   "priceOrig": "572 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-boa-vista/",
+   "title": "Winter escape to Cape Verde Cheap direct flights from London & Manchester to the island of Boa Vista from £199",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-boa-vista/",
+   "source": "Fly4Free",
+   "time": "2026-11-17T09:00:06.000Z",
+   "priceEur": 238,
+   "priceOrig": "199 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-malaysia-e427/",
+   "title": "PEAK SEASON Cheap full-service flights from Brussels to Thailand & Malaysia from €427",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-malaysia-e427/",
+   "source": "Fly4Free",
+   "time": "2026-11-17T08:00:13.000Z",
+   "priceEur": 427,
+   "priceOrig": "427 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-cancun-e569/",
+   "title": "It's Mexico time! Flights from many European cities to Cancun from €569",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-cancun-e569/",
+   "source": "Fly4Free",
+   "time": "2026-11-17T07:00:57.000Z",
+   "priceEur": 569,
+   "priceOrig": "569 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/iconic-hotel-bangkok-baiyoke/",
    "title": "Stay at the tallest hotel in Thailand with insane views 4* iconic hotel in Bangkok from €59/double",
@@ -3519,102 +3615,6 @@
    "time": "2026-11-07T16:53:35.000Z",
    "priceEur": 781,
    "priceOrig": "872 USD",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/news/skyscanner-reveals-best-value-destinations-for-2027/",
-   "title": "Fly for less, stay for less: Skyscanner names the 10 best-value destinations",
-   "link": "https://www.fly4free.com/news/skyscanner-reveals-best-value-destinations-for-2027/",
-   "source": "Fly4Free",
-   "time": "2026-11-07T16:29:49.000Z",
-   "priceEur": null,
-   "priceOrig": null,
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-taiwan-e443/",
-   "title": "Cheap full-service flights from Amsterdam to Taiwan for €443",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-taiwan-e443/",
-   "source": "Fly4Free",
-   "time": "2026-11-07T16:00:43.000Z",
-   "priceEur": 443,
-   "priceOrig": "443 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-garda-lake-e58/",
-   "title": "Top-rated 4 country hotel in the Garda Lake, Italy from €58/double",
-   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-garda-lake-e58/",
-   "source": "Fly4Free",
-   "time": "2026-11-07T15:00:49.000Z",
-   "priceEur": 58,
-   "priceOrig": "58 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-bangkok-e448/",
-   "title": "Cheap flights from Prague to Phuket & Bangkok, Thailand from €448",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-bangkok-e448/",
-   "source": "Fly4Free",
-   "time": "2026-11-07T14:00:15.000Z",
-   "priceEur": 448,
-   "priceOrig": "448 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-the-philippines-e495/",
-   "title": "Full-service flights from Frankfurt to the Philippines from €495",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-to-the-philippines-e495/",
-   "source": "Fly4Free",
-   "time": "2026-11-07T13:00:10.000Z",
-   "priceEur": 495,
-   "priceOrig": "495 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-athens-e62/",
-   "title": "B&B stay at well-rated and central 4 hotel in Athens for €62/double",
-   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-athens-e62/",
-   "source": "Fly4Free",
-   "time": "2026-11-07T12:00:08.000Z",
-   "priceEur": 62,
-   "priceOrig": "62 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/hainan-airlines-flights-from-brussels-to-thailand-e464/",
-   "title": "Cheap full-service Hainan Airlines flights from Brussels to Bangkok, Thailand from €464",
-   "link": "https://www.fly4free.com/flight-deals/europe/hainan-airlines-flights-from-brussels-to-thailand-e464/",
-   "source": "Fly4Free",
-   "time": "2026-11-07T11:00:50.000Z",
-   "priceEur": 464,
-   "priceOrig": "464 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-cape-verde-from-poland/",
-   "title": "Holiday in Cape Verde for €662 p.p. Cheap direct flights from Poland + 7-night B&B stay at well-rated hotel",
-   "link": "https://www.fly4free.com/flight-deals/europe/holiday-in-cape-verde-from-poland/",
-   "source": "Fly4Free",
-   "time": "2026-11-07T10:00:13.000Z",
-   "priceEur": 662,
-   "priceOrig": "662 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
