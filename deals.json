@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:21:08.289Z",
+ "updated": "2026-11-19T14:18:02.472Z",
  "ratesDate": "2026-11-18",
  "sources": [
   {
@@ -19,6 +19,102 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/romantic-trip-mumbai-maldives-from-vienna/",
+   "title": "Valentine’s Day in the Maldives! Mumbai + tropical island escape in one trip from Vienna for just €567",
+   "link": "https://www.fly4free.com/flight-deals/europe/romantic-trip-mumbai-maldives-from-vienna/",
+   "source": "Fly4Free",
+   "time": "2026-11-19T14:00:42.000Z",
+   "priceEur": 567,
+   "priceOrig": "567 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-london-edinburgh-copenhagen-to-the-faroe-islands/",
+   "title": "SUMMER 2027 in the Faroe Islands! Direct flights from Edinburgh, Paris, London & Copenhagen from €188 return",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-london-edinburgh-copenhagen-to-the-faroe-islands/",
+   "source": "Fly4Free",
+   "time": "2026-11-19T12:30:12.000Z",
+   "priceEur": 188,
+   "priceOrig": "188 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-kuala-lumpur-e81/",
+   "title": "More resort than city hotel — 5-star Kuala Lumpur stay from €81/double",
+   "link": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-kuala-lumpur-e81/",
+   "source": "Fly4Free",
+   "time": "2026-11-19T11:00:57.000Z",
+   "priceEur": 81,
+   "priceOrig": "81 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mauritius-e345/",
+   "title": "Deal alert! Cheap flights from many European cities to tropical Mauritius from €345",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mauritius-e345/",
+   "source": "Fly4Free",
+   "time": "2026-11-19T10:00:33.000Z",
+   "priceEur": 345,
+   "priceOrig": "345 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-vietnam-e388-3/",
+   "title": "Fantastic High Season deal Cheap full-service flights from Brussels to Vietnam from €388",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-vietnam-e388-3/",
+   "source": "Fly4Free",
+   "time": "2026-11-19T09:00:49.000Z",
+   "priceEur": 388,
+   "priceOrig": "388 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-poland-to-vietnam-thailand/",
+   "title": "Last-minute full-service direct flights from Poland to Malaysia, Vietnam & Thailand from €496",
+   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-poland-to-vietnam-thailand/",
+   "source": "Fly4Free",
+   "time": "2026-11-19T08:00:16.000Z",
+   "priceEur": 496,
+   "priceOrig": "496 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e386/",
+   "title": "CHEAP Last minute flights from many European cities to exotic Trinidad and Tobago from €386",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e386/",
+   "source": "Fly4Free",
+   "time": "2026-11-19T07:00:46.000Z",
+   "priceEur": 386,
+   "priceOrig": "386 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/travel-insurance-sale-black-friday-3/",
+   "title": "Heymondo Black Friday Sale! 15% off your travel insurance",
+   "link": "https://www.fly4free.com/flight-deals/europe/travel-insurance-sale-black-friday-3/",
+   "source": "Fly4Free",
+   "time": "2026-11-19T06:15:25.000Z",
+   "priceEur": null,
+   "priceOrig": null,
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-lisbon-to-sao-tome/",
    "title": "Full-service flights from Lisbon to mega exotic Sao Tome and Principe from €469",
@@ -3519,102 +3615,6 @@
    "time": "2026-11-09T14:45:17.000Z",
    "priceEur": 65,
    "priceOrig": "65 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-katowice-to-phuket-e647/",
-   "title": "Last minute LOT direct flights from Poland to Phuket, Thailand for €647",
-   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-katowice-to-phuket-e647/",
-   "source": "Fly4Free",
-   "time": "2026-11-09T13:40:54.000Z",
-   "priceEur": 647,
-   "priceOrig": "647 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/lot-direct-flights-from-poland-to-phuket-2/",
-   "title": "Last-minute full-service LOT direct flights from Poland to Phuket, Thailand for €686",
-   "link": "https://www.fly4free.com/flight-deals/europe/lot-direct-flights-from-poland-to-phuket-2/",
-   "source": "Fly4Free",
-   "time": "2026-11-09T13:40:54.000Z",
-   "priceEur": 686,
-   "priceOrig": "686 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-copenhagen-to-south-korea-e582/",
-   "title": "Good price for a direct flight! Copenhagen to Seoul, South Korea for €582",
-   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-copenhagen-to-south-korea-e582/",
-   "source": "Fly4Free",
-   "time": "2026-11-09T13:00:29.000Z",
-   "priceEur": 582,
-   "priceOrig": "582 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-porto-e56/",
-   "title": "Well-rated and central 4* hotel in Porto, Portugal, for €56/double",
-   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-porto-e56/",
-   "source": "Fly4Free",
-   "time": "2026-11-09T12:00:23.000Z",
-   "priceEur": 56,
-   "priceOrig": "56 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-italy-e479/",
-   "title": "Cheap full-service flights from Germany & Italy to Thailand from €479",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-germany-to-italy-e479/",
-   "source": "Fly4Free",
-   "time": "2026-11-09T11:00:55.000Z",
-   "priceEur": 479,
-   "priceOrig": "479 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-gdansk-to-usa-canada-e315/",
-   "title": "GREAT DEAL Cheap flights from Gdansk, Poland to USA & Canada from €315",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-gdansk-to-usa-canada-e315/",
-   "source": "Fly4Free",
-   "time": "2026-11-09T10:00:17.000Z",
-   "priceEur": 315,
-   "priceOrig": "315 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e544/",
-   "title": "Full-service flights from Amsterdam to Bali, Indonesia for €544",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-bali-e544/",
-   "source": "Fly4Free",
-   "time": "2026-11-09T09:00:50.000Z",
-   "priceEur": 544,
-   "priceOrig": "544 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-the-uk-to-bangkok-p412/",
-   "title": "Cheap non-stop flights from Manchester & London to Bangkok, Thailand for £412",
-   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-the-uk-to-bangkok-p412/",
-   "source": "Fly4Free",
-   "time": "2026-11-09T08:00:45.000Z",
-   "priceEur": 493,
-   "priceOrig": "412 GBP",
    "error": false,
    "oneway": false,
    "cabin": "economy"
