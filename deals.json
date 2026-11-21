@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:01:57.082Z",
+ "updated": "2026-11-21T13:21:55.329Z",
  "ratesDate": "2026-11-20",
  "sources": [
   {
@@ -19,6 +19,78 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-seoul-e493/",
+   "title": "Cheap last-minute full-service flights from Amsterdam to South Korea for €493",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-seoul-e493/",
+   "source": "Fly4Free",
+   "time": "2026-11-21T13:00:32.000Z",
+   "priceEur": 493,
+   "priceOrig": "493 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-phuket-e31-6/",
+   "title": "HIGH SEASON B&B stay at beachfront 4* Aochalong Villa Resort & Spa in Phuket for €31/double",
+   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-phuket-e31-6/",
+   "source": "Fly4Free",
+   "time": "2026-11-21T12:00:44.000Z",
+   "priceEur": 31,
+   "priceOrig": "31 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-the-philippines-e543/",
+   "title": "PEAK SEASON Full-service flights from Budapest to the Philippines for €543",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-the-philippines-e543/",
+   "source": "Fly4Free",
+   "time": "2026-11-21T11:00:18.000Z",
+   "priceEur": 543,
+   "priceOrig": "543 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-e489/",
+   "title": "PEAK SEASON Cheap full-service flights from Brussels to Phuket & Bangkok, Thailand from €489",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-thailand-e489/",
+   "source": "Fly4Free",
+   "time": "2026-11-21T10:00:19.000Z",
+   "priceEur": 489,
+   "priceOrig": "489 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-singapore-p575/",
+   "title": "HIGH SEASON Non-stop British Airways A380 flights from London to Singapore for £575",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-singapore-p575/",
+   "source": "Fly4Free",
+   "time": "2026-11-21T09:00:55.000Z",
+   "priceEur": 687,
+   "priceOrig": "575 GBP",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-vietnam-e488/",
+   "title": "Vietnam last minute Cheap full-service flights from Amsterdam to Hanoi or Ho Chi Minh from €488",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-amsterdam-to-vietnam-e488/",
+   "source": "Fly4Free",
+   "time": "2026-11-21T08:00:39.000Z",
+   "priceEur": 488,
+   "priceOrig": "488 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-bali-e486/",
    "title": "Bargain fares! Cheap full-service flights from Paris to Bali, Indonesia for €486",
@@ -3543,78 +3615,6 @@
    "time": "2026-11-11T14:00:54.000Z",
    "priceEur": 468,
    "priceOrig": "468 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-florida-p370/",
-   "title": "Winter escape to Florida Cheap direct flights from London to Orlando for £370",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-florida-p370/",
-   "source": "Fly4Free",
-   "time": "2026-11-11T13:00:22.000Z",
-   "priceEur": 443,
-   "priceOrig": "370 GBP",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-da-nang-vietnam-e42-3/",
-   "title": "High Season B&B stay at 5* hotel by Hyatt in Da Nang, Vietnam for €42/double",
-   "link": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-da-nang-vietnam-e42-3/",
-   "source": "Fly4Free",
-   "time": "2026-11-11T12:00:00.000Z",
-   "priceEur": 42,
-   "priceOrig": "42 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/singapore-airlines-flights-from-london-to-singapore-p599/",
-   "title": "Good deal! Full-service Qantas direct flights from London to Singapore for £599",
-   "link": "https://www.fly4free.com/flight-deals/europe/singapore-airlines-flights-from-london-to-singapore-p599/",
-   "source": "Fly4Free",
-   "time": "2026-11-11T11:00:47.000Z",
-   "priceEur": 717,
-   "priceOrig": "599 GBP",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-sri-lanka-e407/",
-   "title": "Prices down! Cheap high season flights from Vienna to Sri Lanka for €407",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-vienna-to-sri-lanka-e407/",
-   "source": "Fly4Free",
-   "time": "2026-11-11T10:00:29.000Z",
-   "priceEur": 407,
-   "priceOrig": "407 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-katowice-to-vietnam-e539/",
-   "title": "Last-minute full-service direct flights from Poland to Vietnam for €539",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-katowice-to-vietnam-e539/",
-   "source": "Fly4Free",
-   "time": "2026-11-11T09:00:10.000Z",
-   "priceEur": 539,
-   "priceOrig": "539 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-scandinavia-to-thailand-e305/",
-   "title": "FARE DROP Cheap non-stop flights from Scandinavia to Thailand from €305",
-   "link": "https://www.fly4free.com/flight-deals/europe/direct-flights-from-scandinavia-to-thailand-e305/",
-   "source": "Fly4Free",
-   "time": "2026-11-11T08:00:09.000Z",
-   "priceEur": 305,
-   "priceOrig": "305 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
