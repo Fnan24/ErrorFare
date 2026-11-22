@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:08:11.101Z",
+ "updated": "2026-11-22T13:14:10.737Z",
  "ratesDate": "2026-11-20",
  "sources": [
   {
@@ -19,6 +19,90 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-tenerife-from-bucharest-e469/",
+   "title": "Holiday in Tenerife for €469 p.p. Flights from Bucharest + 7-night stay at 4* hotel",
+   "link": "https://www.fly4free.com/flight-deals/europe/holiday-in-tenerife-from-bucharest-e469/",
+   "source": "Fly4Free",
+   "time": "2026-11-22T13:00:22.000Z",
+   "priceEur": 469,
+   "priceOrig": "469 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/kazakhstan-to-introduce-new-entry-authorisation-for-visa-free-travellers/",
+   "title": "New entry rules for Kazakhstan: Visa-free travellers will need QazETA",
+   "link": "https://www.fly4free.com/flight-deals/europe/kazakhstan-to-introduce-new-entry-authorisation-for-visa-free-travellers/",
+   "source": "Fly4Free",
+   "time": "2026-11-22T12:42:22.000Z",
+   "priceEur": null,
+   "priceOrig": null,
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-venice-e75/",
+   "title": "Romantic Venice escape! B&B stay at well-rated 4* palazzo hotel for €75/double",
+   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-venice-e75/",
+   "source": "Fly4Free",
+   "time": "2026-11-22T12:00:24.000Z",
+   "priceEur": 75,
+   "priceOrig": "75 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-seoul-e496/",
+   "title": "Cheap full-service flights from Paris to Seoul, South Korea for €496",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-paris-to-seoul-e496/",
+   "source": "Fly4Free",
+   "time": "2026-11-22T10:55:39.000Z",
+   "priceEur": 496,
+   "priceOrig": "496 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-vietnam-e486/",
+   "title": "HIGH SEASON Cheap full-service flights from Budapest to Vietnam from €486",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-budapest-to-vietnam-e486/",
+   "source": "Fly4Free",
+   "time": "2026-11-22T09:50:09.000Z",
+   "priceEur": 486,
+   "priceOrig": "486 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e457/",
+   "title": "Last-minute fares just got cheaper! Cheap full-service direct flights from Poland to Sri Lanka from €457",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-sri-lanka-e457/",
+   "source": "Fly4Free",
+   "time": "2026-11-22T08:45:52.000Z",
+   "priceEur": 457,
+   "priceOrig": "457 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-toronto-e357/",
+   "title": "PRICE DROP Cheap flights from Prague to Toronto, Canada for €357",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-prague-to-toronto-e357/",
+   "source": "Fly4Free",
+   "time": "2026-11-22T08:00:12.000Z",
+   "priceEur": 357,
+   "priceOrig": "357 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/open-jaw-flights-from-brussels-to-asia-e362/",
    "title": "Excellent deal! Cheap open-jaw full-service flights from Brussels to Hong Kong, returning from Vietnam or Thailand from €362",
@@ -3519,102 +3603,6 @@
    "time": "2026-11-12T14:00:19.000Z",
    "priceEur": 495,
    "priceOrig": "495 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/air-france-flights-from-germany-spain-to-fortaleza/",
-   "title": "Air France flights from Germany & Spain to Fortaleza, Brazil from €571",
-   "link": "https://www.fly4free.com/flight-deals/europe/air-france-flights-from-germany-spain-to-fortaleza/",
-   "source": "Fly4Free",
-   "time": "2026-11-12T13:00:53.000Z",
-   "priceEur": 571,
-   "priceOrig": "571 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-dhiffushi-e101/",
-   "title": "Full Board stay at sea view 4* hotel on Dhiffushi, Maldives for €101/double",
-   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-dhiffushi-e101/",
-   "source": "Fly4Free",
-   "time": "2026-11-12T12:00:24.000Z",
-   "priceEur": 101,
-   "priceOrig": "101 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-cape-verde-e148/",
-   "title": "PRICE DROP Cheap non-stop flights from Milan to Cape Verde for €148",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-cape-verde-e148/",
-   "source": "Fly4Free",
-   "time": "2026-11-12T11:00:02.000Z",
-   "priceEur": 148,
-   "priceOrig": "148 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/turkish-airlines-flights-from-prague-to-middle-east-and-asia-e372/",
-   "title": "Turkish Airlines flights from Prague to the Middle East & many Asian destinations from €372",
-   "link": "https://www.fly4free.com/flight-deals/europe/turkish-airlines-flights-from-prague-to-middle-east-and-asia-e372/",
-   "source": "Fly4Free",
-   "time": "2026-11-12T10:00:44.000Z",
-   "priceEur": 372,
-   "priceOrig": "372 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e461/",
-   "title": "Cheap flights from many European cities to exotic Trinidad and Tobago from €461",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-trinidad-and-tobago-e461/",
-   "source": "Fly4Free",
-   "time": "2026-11-12T09:00:08.000Z",
-   "priceEur": 461,
-   "priceOrig": "461 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p345/",
-   "title": "Fares down! Cheap flights from London to Seattle for £345 or £391 over Summer",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-london-to-seattle-p345/",
-   "source": "Fly4Free",
-   "time": "2026-11-12T08:00:17.000Z",
-   "priceEur": 413,
-   "priceOrig": "345 GBP",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/ryanair-launches-ten-new-winter-routes-from-italy/",
-   "title": "Ryanair launches 10 new winter routes from Italy",
-   "link": "https://www.fly4free.com/flight-deals/europe/ryanair-launches-ten-new-winter-routes-from-italy/",
-   "source": "Fly4Free",
-   "time": "2026-11-12T07:35:38.000Z",
-   "priceEur": null,
-   "priceOrig": null,
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-cape-verde-e335/",
-   "title": "Cheap last-minute direct flights from Warsaw to Cape Verde for €259",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-warsaw-to-cape-verde-e335/",
-   "source": "Fly4Free",
-   "time": "2026-11-12T07:00:13.000Z",
-   "priceEur": 259,
-   "priceOrig": "259 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
