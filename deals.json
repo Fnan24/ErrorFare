@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:59:06.709Z",
+ "updated": "2026-11-27T14:54:27.411Z",
  "ratesDate": "2026-11-26",
  "sources": [
   {
@@ -19,6 +19,102 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/klm-flights-from-madrid-to-lima/",
+   "title": "🇵🇪 Peru adventure starts here! KLM flights from Madrid to Lima from €579",
+   "link": "https://www.fly4free.com/flight-deals/europe/klm-flights-from-madrid-to-lima/",
+   "source": "Fly4Free",
+   "time": "2026-11-27T14:00:47.000Z",
+   "priceEur": 579,
+   "priceOrig": "579 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/8-day-cruise-costa-toscana/",
+   "title": "7-night Mediterranean cruise! Italy, France, and Spain aboard Costa Toscana for just €379 p.p.",
+   "link": "https://www.fly4free.com/flight-deals/europe/8-day-cruise-costa-toscana/",
+   "source": "Fly4Free",
+   "time": "2026-11-27T12:30:40.000Z",
+   "priceEur": 379,
+   "priceOrig": "379 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-warsaw-e83/",
+   "title": "5-star Regent Warsaw Hotel with indoor pool for €83/double",
+   "link": "https://www.fly4free.com/flight-deals/europe/5-star-hotel-in-warsaw-e83/",
+   "source": "Fly4Free",
+   "time": "2026-11-27T11:00:58.000Z",
+   "priceEur": 83,
+   "priceOrig": "83 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/holiday-in-mauritius-from-prague-vienna-e846/",
+   "title": "Holiday in Mauritius from €846 p.p. Cheap flights from Prague & Vienna + car hire + 7-night stay at well-rated hotel",
+   "link": "https://www.fly4free.com/flight-deals/europe/holiday-in-mauritius-from-prague-vienna-e846/",
+   "source": "Fly4Free",
+   "time": "2026-11-27T10:00:20.000Z",
+   "priceEur": 846,
+   "priceOrig": "846 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-baltic-countries-to-bangkok-e561/",
+   "title": "LOT flights from the Baltic countries to Bangkok, Thailand from €561",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-the-baltic-countries-to-bangkok-e561/",
+   "source": "Fly4Free",
+   "time": "2026-11-27T09:00:32.000Z",
+   "priceEur": 561,
+   "priceOrig": "561 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-london-to-bali-e505/",
+   "title": "Cheap full-service flights from Frankfurt & London to Bali, Indonesia for €505",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-frankfurt-london-to-bali-e505/",
+   "source": "Fly4Free",
+   "time": "2026-11-27T08:00:50.000Z",
+   "priceEur": 505,
+   "priceOrig": "505 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-lisbon-to-sao-tome-2/",
+   "title": "HOT Full-service flights from Lisbon to exotic Sao Tome and Principe from €270",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-lisbon-to-sao-tome-2/",
+   "source": "Fly4Free",
+   "time": "2026-11-27T07:29:59.000Z",
+   "priceEur": 270,
+   "priceOrig": "270 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-katowice-to-vietnam-e485/",
+   "title": "Cheap last-minute full-service direct flights from Poland to Vietnam for €485",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-katowice-to-vietnam-e485/",
+   "source": "Fly4Free",
+   "time": "2026-11-27T07:00:30.000Z",
+   "priceEur": 485,
+   "priceOrig": "485 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/flights-from-manchester-to-phuket-p518/",
    "title": "Non-stop flights from Manchester to Phuket, Thailand for £518",
@@ -3519,102 +3615,6 @@
    "time": "2026-11-17T17:00:10.000Z",
    "priceEur": 45,
    "priceOrig": "45 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.theflightdeal.com/2026/11/17/scandinavian-airlines-washington-d-c-oslo-norway-441-basic-economy-521-regular-economy-roundtrip-including-all-taxes/",
-   "title": "Scandinavian Airlines: Washington D.C. - Oslo, Norway. $441 (Basic Economy) / $521 (Regular Economy). Roundtrip, including all Taxes",
-   "link": "https://www.theflightdeal.com/2026/11/17/scandinavian-airlines-washington-d-c-oslo-norway-441-basic-economy-521-regular-economy-roundtrip-including-all-taxes/",
-   "source": "The Flight Deal",
-   "time": "2026-11-17T16:53:46.000Z",
-   "priceEur": 401,
-   "priceOrig": "441 USD",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-malaysia-e458/",
-   "title": "HIGH SEASON Cheap full-service flights from Milan to Malaysia for €458",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-malaysia-e458/",
-   "source": "Fly4Free",
-   "time": "2026-11-17T16:00:47.000Z",
-   "priceEur": 458,
-   "priceOrig": "458 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/skis-and-snowboards-on-planes-how-much-does-it-cost/",
-   "title": "Ski and snowboard baggage fees: Here’s what Ryanair, Wizz Air, easyJet and others charge",
-   "link": "https://www.fly4free.com/flight-deals/europe/skis-and-snowboards-on-planes-how-much-does-it-cost/",
-   "source": "Fly4Free",
-   "time": "2026-11-17T15:23:44.000Z",
-   "priceEur": null,
-   "priceOrig": null,
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-south-africa-and-zanzibar-e383/",
-   "title": "Fantastic Sale Cheap flights from many European cities to South Africa & Zanzibar, Tanzania from €383",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-south-africa-and-zanzibar-e383/",
-   "source": "Fly4Free",
-   "time": "2026-11-17T15:00:08.000Z",
-   "priceEur": 383,
-   "priceOrig": "383 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-cape-verde-e293/",
-   "title": "Cheap last-minute direct flights from Poland to Cape Verde from €293",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-poland-to-cape-verde-e293/",
-   "source": "Fly4Free",
-   "time": "2026-11-17T14:00:32.000Z",
-   "priceEur": 293,
-   "priceOrig": "293 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-rome-e74/",
-   "title": "City break in the Eternal City Well-rated and central 4* hotel in Rome for €74/double",
-   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-rome-e74/",
-   "source": "Fly4Free",
-   "time": "2026-11-17T13:00:03.000Z",
-   "priceEur": 74,
-   "priceOrig": "74 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mauritius-e375/",
-   "title": "Fantastic fares! Cheap flights from many European cities to paradise-like Mauritius from €375",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-mauritius-e375/",
-   "source": "Fly4Free",
-   "time": "2026-11-17T12:01:25.000Z",
-   "priceEur": 375,
-   "priceOrig": "375 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-peru-p578/",
-   "title": "Explore the Land of the Incas! Air France/KLM flights from many UK cities to Peru from £578",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-the-uk-to-peru-p578/",
-   "source": "Fly4Free",
-   "time": "2026-11-17T11:00:38.000Z",
-   "priceEur": 692,
-   "priceOrig": "578 GBP",
    "error": false,
    "oneway": false,
    "cabin": "economy"
