@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:27:20.916Z",
+ "updated": "2026-11-28T14:03:17.078Z",
  "ratesDate": "2026-11-27",
  "sources": [
   {
@@ -19,6 +19,90 @@
   }
  ],
  "deals": [
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/cheap-hotel-in-paris-e64/",
+   "title": "Right in the heart of Paris Well-rated and central hotel for €64/double",
+   "link": "https://www.fly4free.com/flight-deals/europe/cheap-hotel-in-paris-e64/",
+   "source": "Fly4Free",
+   "time": "2026-11-28T14:00:06.000Z",
+   "priceEur": 64,
+   "priceOrig": "64 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/sas-flights-from-europe-to-usa-e299/",
+   "title": "SAS SALE 🇺🇸 Cheap flights from many European cities to numerous US destinations from €299",
+   "link": "https://www.fly4free.com/flight-deals/europe/sas-flights-from-europe-to-usa-e299/",
+   "source": "Fly4Free",
+   "time": "2026-11-28T13:00:20.000Z",
+   "priceEur": 299,
+   "priceOrig": "299 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-boa-vista-e283/",
+   "title": "Last minute direct flights from Brussels to the island of Boa Vista for €283",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-brussels-to-boa-vista-e283/",
+   "source": "Fly4Free",
+   "time": "2026-11-28T12:00:15.000Z",
+   "priceEur": 283,
+   "priceOrig": "283 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-south-east-asia-e438/",
+   "title": "HIGH SEASON Cheap full-service flights from many European cities to South East Asia from €438",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-south-east-asia-e438/",
+   "source": "Fly4Free",
+   "time": "2026-11-28T10:55:32.000Z",
+   "priceEur": 438,
+   "priceOrig": "438 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/cheap-msc-cruise-e270/",
+   "title": "Fantastic deal! 8-night cruise from Rome to four Canary Islands & Madeira aboard MSC Fantasia for just €270 p.p.",
+   "link": "https://www.fly4free.com/flight-deals/europe/cheap-msc-cruise-e270/",
+   "source": "Fly4Free",
+   "time": "2026-11-28T09:51:05.000Z",
+   "priceEur": 270,
+   "priceOrig": "270 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-los-angeles-e393/",
+   "title": "Cheap full-service flights from many European cities to Los Angeles from €393",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-los-angeles-e393/",
+   "source": "Fly4Free",
+   "time": "2026-11-28T09:00:31.000Z",
+   "priceEur": 393,
+   "priceOrig": "393 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
+  {
+   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-hanoi-e487/",
+   "title": "Last minute Etihad Airways flights from several European cities to Hanoi, Vietnam from €487",
+   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-europe-to-hanoi-e487/",
+   "source": "Fly4Free",
+   "time": "2026-11-28T08:00:41.000Z",
+   "priceEur": 487,
+   "priceOrig": "487 EUR",
+   "error": false,
+   "oneway": false,
+   "cabin": "economy"
+  },
   {
    "id": "https://www.fly4free.com/flight-deals/europe/cheap-flights-from-greece-to-egypt-10-2/",
    "title": "Non-stop flights from Athens to Cairo or Luxor, Egypt from €112",
@@ -3531,90 +3615,6 @@
    "time": "2026-11-18T16:53:08.000Z",
    "priceEur": 401,
    "priceOrig": "440 USD",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/toronto-tokyo-in-one-trip/",
-   "title": "SPRING 2027 2 different worlds in one trip: Tokyo and Toronto in one trip from Frankfurt for €855",
-   "link": "https://www.fly4free.com/flight-deals/europe/toronto-tokyo-in-one-trip/",
-   "source": "Fly4Free",
-   "time": "2026-11-18T15:32:24.000Z",
-   "priceEur": 855,
-   "priceOrig": "855 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/7-day-cruise-msc-euribia-e499-2/",
-   "title": "Mediterranean 8-day cruise across France, Italy, Tunisia & Spain aboard MSC Euribia from just €389 p.p.",
-   "link": "https://www.fly4free.com/flight-deals/europe/7-day-cruise-msc-euribia-e499-2/",
-   "source": "Fly4Free",
-   "time": "2026-11-18T14:00:27.000Z",
-   "priceEur": 389,
-   "priceOrig": "389 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/winter-deal-in-kuusamo-hotel-direct-flights-from-berlin/",
-   "title": "Aurora hunting and skiing in Finland: a week in Kuuasamo with direct flights from Berlin from €522 p.p.",
-   "link": "https://www.fly4free.com/flight-deals/europe/winter-deal-in-kuusamo-hotel-direct-flights-from-berlin/",
-   "source": "Fly4Free",
-   "time": "2026-11-18T12:30:06.000Z",
-   "priceEur": 522,
-   "priceOrig": "522 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/news/india-simplifies-visa-rules-for-tourists/",
-   "title": "Applying for an Indian visa is about to get much easier",
-   "link": "https://www.fly4free.com/news/india-simplifies-visa-rules-for-tourists/",
-   "source": "Fly4Free",
-   "time": "2026-11-18T12:23:21.000Z",
-   "priceEur": null,
-   "priceOrig": null,
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-amsterdam-e77/",
-   "title": "Amsterdam with a cosy twist 🇳🇱 Stylish 4* hotel with a fireplace for €77/double",
-   "link": "https://www.fly4free.com/flight-deals/europe/4-star-hotel-in-amsterdam-e77/",
-   "source": "Fly4Free",
-   "time": "2026-11-18T11:00:51.000Z",
-   "priceEur": 77,
-   "priceOrig": "77 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-australia-e582/",
-   "title": "Australian Summer Cheap full-service flights from Milan to Sydney for €582",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-milan-to-australia-e582/",
-   "source": "Fly4Free",
-   "time": "2026-11-18T10:00:55.000Z",
-   "priceEur": 582,
-   "priceOrig": "582 EUR",
-   "error": false,
-   "oneway": false,
-   "cabin": "economy"
-  },
-  {
-   "id": "https://www.fly4free.com/flight-deals/europe/flights-from-bucharest-to-taiwan-e550/",
-   "title": "Full-service flights from Bucharest to Taiwan for €544",
-   "link": "https://www.fly4free.com/flight-deals/europe/flights-from-bucharest-to-taiwan-e550/",
-   "source": "Fly4Free",
-   "time": "2026-11-18T09:00:16.000Z",
-   "priceEur": 544,
-   "priceOrig": "544 EUR",
    "error": false,
    "oneway": false,
    "cabin": "economy"
